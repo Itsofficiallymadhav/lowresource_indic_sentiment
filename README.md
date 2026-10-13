@@ -23,9 +23,9 @@ Week 1 establishes the data foundation of the project: acquiring the datasets, c
 
 ### Datasets
 
-| Dataset | Type | Role | Licence |
-|---|---|---|---|
-| IndicSentiment | Labelled sentiment (hi, bn, mr) | Sentiment labels; only `validation` and `test` splits exist | None stated on the dataset card |
+| Dataset | Type | Role |
+|---|---|---|
+| IndicSentiment | Labelled sentiment (hi, bn, mr) | Sentiment labels; only `validation` and `test` splits exist |
 | Samanantar | English–Indic parallel text, no labels | Cross-lingual alignment (small sample only) |
 | IndicCorpV2 | Monolingual text, no labels | Not used (very large) |
 
