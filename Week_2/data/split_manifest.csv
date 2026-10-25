@@ -1,0 +1,1153 @@
+review_id,split,english,label,label_id,part
+validation_0,validation,"This boat's soundbar is still wire-connectivity for all the speakers. The HDMI port doesn't match all the devices, hence it suddenly gets disconnected sometimes.",Negative,0,train
+validation_1,validation,Foldable type of microphone with mic and micro sd card slot.,Positive,1,val
+validation_2,validation,"The recently included feature of stories by defaultly visible for 24 hrs, makes me super happy. Social connection just at ease!",Positive,1,train
+validation_3,validation,"Rates are competitive, almost always the best in the market",Positive,1,train
+validation_4,validation,"Looks very big and efficient. But since there is no front shutter, it works like a simple fan and is not suitable for industrial purposes.",Negative,0,test
+validation_5,validation,"I gave this book a 5 star review because it is full of a fabulous story which could only exist in the mind of a young child with a love for all sweets. It is accompanied by wonderful, attractive pictures which would keep any young child excited about reading the story by pictures.",Positive,1,train
+validation_6,validation,"But you cannot expect the quality in terms of flight/durability for this product. This shuttle broke in a single game of 10 minutes, they should refund my money.",Negative,0,train
+validation_7,validation,I find the interface on the thing itself is clunky and you can't easily adjust the right midi settings internally.,Negative,0,train
+validation_8,validation,"I deleted this app with a security concern. No privacy feature, No end-to-end encryption to messages, nor anything about the security mentioned with their description on play store and I personally find it fishy!",Negative,0,val
+validation_9,validation,The wash and care say it's washable but how do I even remove the swing cot from the swing. I feel so frustrated,Negative,0,train
+validation_10,validation,"Recently I purchased one template from ""Unfold"", but it's not able access or seen my editing page. It's totally irritating, money deducted from bank account and showing the tamplate is downloaded, but not reflected in the editing mode.",Negative,0,train
+validation_11,validation,"Thogh the say otherwise, finding the hits and reaching the people is not as easy as they say. They say you can create tags to get hits but won't tell you about the SEO practices.",Negative,0,train
+validation_12,validation,All the bristles came out in just 1 week of combing.,Negative,0,val
+validation_13,validation,The Symphony window air cooler is a big cooler with a large tank. Hence it takes a lot of space and is a little unsafe since it is a window cooler and to be hanged always.,Negative,0,train
+validation_14,validation,On call connectivity is too low at times.,Negative,0,train
+validation_15,validation,"Haider is an unforgettable film that never fumbles, never stumbles, and is so sure of itself that it cannot go wrong. From Shahid to Tabu to Kay Kay to the powerful cameo of Irrfan, everything in the film works.",Positive,1,val
+validation_16,validation,Coaches and platforms are clean,Positive,1,train
+validation_17,validation,The fan is very efficient for spaces like kitchen and smoking area and its air delivery speed is okayish.,Positive,1,train
+validation_18,validation,The TV sets are very old having trouble in viewing. The price of the food was very high in comparison to the quality and quantity provided.,Negative,0,train
+validation_19,validation,The vendors roaming in the trains are a big nuisance.,Negative,0,test
+validation_20,validation,"Considering an action movie, this whole movie is more in a stationary phase. Nothing much on the front of stunts, fights.",Negative,0,test
+validation_21,validation,"This doesnot allow you to download the podcasts you love, so you need to be on data all the time while using the app.",Negative,0,test
+validation_22,validation,"Has all the connectivity modes like wired, Bluetooth, USB, and also HDMI. It keeps both audio and video outputs in sync, just like the theaters.",Positive,1,val
+validation_23,validation,"this is a photo editor and video maker for stories that offers a collection of 400+ award-winning Instagram story templates and customizable editing options, just the way I would likr it to be.",Positive,1,val
+validation_24,validation,"Same old body shame jokes, trying too hard to make us laugh.If you have seen the trailer u have already known 90% of the movie.",Negative,0,train
+validation_25,validation,The tower air cooler is 2.5 ft. in height and it has options to direct airflow. It is optimum for shop spaces when we need to stand for long hours.,Positive,1,val
+validation_26,validation,"Easy-to-use features for authentic connecting with friends, family, and common interest groups, including: dedicated feeds for close friends versus all contacts; private and open groups;",Positive,1,train
+validation_27,validation,After long search and reading all the reviews I ordered this product. This is great for beginners as they can have easier control over it but definitely not for professionals.,Positive,1,val
+validation_28,validation,The high sugar content of the biscuits is unhealthy to consume,Negative,0,train
+validation_29,validation,"Videocon's inverter AC which comes with auto-cleaning capacity is little messy. Since it is not manual, it ends up consuming more power than expected because of recurrent cleaning.",Negative,0,train
+validation_30,validation,This is the best thing I have bought in all of my baby's nursery furniture. It takes just a few minutes to put her to bed in this musical carrycot.,Positive,1,train
+validation_31,validation,I bought the set of two rabbit pillows and they are so plush and soft. They are my son's go-to cuddle bunnies now.,Positive,1,test
+validation_32,validation,"Urja's exhaust fans come with a front shutter. Exhaust shutters, also known as vertical gravity dampers, open to provide exhaust when Positive air pressure is applied and help properly ventilate buildings.",Positive,1,train
+validation_33,validation,"It shoots 12 frames on medium format 120 roll film, with shallow depth of field effects we pay a fortune to achieve with modern cameras.",Positive,1,train
+validation_34,validation,"Situated in a prime location in South Kolkata, the hotel is the best choice for those with a pocket-crunch. The bathrooms are clean with both AC and Non-AC rooms to suit all types of customers.",Positive,1,train
+validation_35,validation,"Warranty Seal Broken, improper power on-off mechanism",Negative,0,train
+validation_36,validation,Not very punctual. Not once did I fly on time with them.,Negative,0,train
+validation_37,validation,"Heart wrenching, emotional film and a really amazing story that I’m sure was accurate for a lot of people and their souls in Chernobyl.",Positive,1,train
+validation_38,validation,"The lumbar support and headrest aren't suitable for people above 5'8'', and the armrest slightly wobbles when in use giving you an annoying experience. Also, the PRICE IS TOO HIGH!!! ; not at all affordable for a middle-class buyer.",Negative,0,test
+validation_39,validation,"There is no cushioning, and the fibre seat is very hard, the backrest is only for the lower back, plus, there is no headrest either, making the chair unsuitable for longer working hours. The net as well is extremely cheap in texture and quality.",Negative,0,val
+validation_40,validation,I had trouble feeding my newborn as I started lactating after one week of her birth. This is a very good substitute if you are struggling with feeding.,Positive,1,train
+validation_41,validation,A moderately low rate of strength development can lead to Frost damage in concrete because of cold weather.,Negative,0,train
+validation_42,validation,It is not for large lens as it's mouth is very small for those lens,Negative,0,train
+validation_43,validation,Gives your skin an oily texture that will last for some time making you uncomfortable.,Negative,0,train
+validation_44,validation,"High color rendering index (CRI>96, TLCI≥98) to present the objects authentically, premium aluminium based build",Positive,1,val
+validation_45,validation,It is very expensive.,Negative,0,train
+validation_46,validation,The quality of the compressor in Voltas central AC is not efficient after 6 months of usage. It starts making noise which is a sign of poor quality.,Negative,0,train
+validation_47,validation,Rates vary as per the demand in a particular area. They should keet it consistent,Negative,0,val
+validation_48,validation,Best find in teethers I have bought so far. The silicone is soft but sturdy and the handle is easy to grasp for tiny hands.,Positive,1,train
+validation_49,validation,The fabric is not breathable at all. The legs have a cheap plastic coating that slips. The nuts provided are not of same size and the L key doesn't fit.,Negative,0,test
+validation_50,validation,"Ambience is good and the cafe has a different theme based on owls, including both inside as well as outside sitting arrangements. The Italian spread especially the Lasagna tasted extremely yummy besides the nice tasting desserts with quite a pocket-friendly pricing.",Positive,1,train
+validation_51,validation,Their porridge flavors are not appetizing at all. My baby gags in her first two-three bites. Nestle can do better.,Negative,0,train
+validation_52,validation,The roll film was difficult to load and the flash didn't work.,Negative,0,train
+validation_53,validation,It is well padded with good quality cusions.,Positive,1,train
+validation_54,validation,"Just for the sake of the action they tried to do as many things as they can, but with no luck. You won't feel any excitement...Not with the story..Nor with the action",Negative,0,train
+validation_55,validation,"Bluetooth won't support any new device apart from the tethered one. It takes a lot of time to delink and link a new device, which is a frustrating experience always.",Negative,0,val
+validation_56,validation,this personal air cooler from usha is coming with such a smooth blower that you won't feel it like a cooler but a fan. The noise level is that less.,Positive,1,train
+validation_57,validation,"It is easy to get distracted and miss the details while listening on storytel due to the poor voice quality. Every time, the modulation of either of the narrator is weak leading it to a flat, dull, boring text at the end.",Negative,0,train
+validation_58,validation,"These are told to be dust-resistant, but they don't seem so. They just look shiny but the dust accumulates on the blades very often.",Negative,0,val
+validation_59,validation,"New coaches are much better regarding safety, legroom and new amenities",Positive,1,test
+validation_60,validation,Sleeper is not very comfortable. They are booking two people on a birth which is alright for an adult and a baby.,Negative,0,val
+validation_61,validation,Has a strong overpowering scent which lingers,Negative,0,train
+validation_62,validation,This movie is just next to horrible. Screenplay is nothing less that chaos.,Negative,0,train
+validation_63,validation,well connected in the state. You can go almost to all the big cities in the state and some interstate destinations using their services.,Positive,1,train
+validation_64,validation,Very well maintained and green garden with seperate children play area and s round walking track surrounding the middle ground with many sitting desks. It is liked by many locals around here and is visited in large numbers by walkers in the evening and on weekends while weekday mornings are not so crowded.,Positive,1,train
+validation_65,validation,This body wash gives smooth and moisturized skin. The packaging is travel friendly.,Positive,1,test
+validation_66,validation,Online booking is not available in almost all the metro cities.,Negative,0,train
+validation_67,validation,"Their waterproof claim is false! The ink smudges just as much as other gel pens when it comes in contact with water. Besides, one pen barely lasts two days in case of heavy writing.",Negative,0,train
+validation_68,validation,"If you want to spend nice time with your young ones, this place is a must!!",Positive,1,test
+validation_69,validation,It provides intensive moisturizing and gives a nice heavenly fruit fragrance,Positive,1,train
+validation_70,validation,It allows you to control what you want to share with app. And they really don't nick into your private space.,Positive,1,train
+validation_71,validation,"Zebronics home theater system is giving all kinds of connectivity like Bluetooth, USB & HDMI. But, because of the lack of good software it starts messing up the connections and slows the system down.",Negative,0,test
+validation_72,validation,"Shirts are made from athletic material, features as breathable, lightweight and super soft, and it is also stretchy, easy to put on and take off.",Positive,1,train
+validation_73,validation,I used Kobo for the first time to listen to the audiobooks and it's AMAZING!! The sound quality and pitch of the readers is apt making it more interesting than just reading it by yourself.,Positive,1,train
+validation_74,validation,"The window air cooler of Hindware is very compact and small. May be it is designed for very tiny spaces, hence it is uselessf or big hostel rooms like ours.",Negative,0,test
+validation_75,validation,Te rubber cups that cover the joints was loose and exposes the joint to early wear and tear.,Negative,0,train
+validation_76,validation,"Only after few matches, its shape was deformed and the flight got affected severely. Don't go for it if you are a regular player because it can causes the greatest disappointment and embarrassment on the court and will be wastage of money.",Negative,0,train
+validation_77,validation,It has been my favorite for ages and this roll-on lives up to its image. It is alcohol free and absolutely controls the body odour.,Positive,1,train
+validation_78,validation,Perhaps the most luxurious of the carriers even in economy class.,Positive,1,test
+validation_79,validation,The prices are quite surprising given the quality they offer. I bought the cradle and it has so many features which are super safe for the baby. All the wheels lock so that the cradle doesn't move or skid. It's a great product with very reasonable prices.,Positive,1,train
+validation_80,validation,"Now comes with PM 2.5 filters in Split ACs. Since it stops almost 99% of particles in the air, it raises the risk of low immunity to any air-borne diseases.",Negative,0,val
+validation_81,validation,"I am a pro member, and everything is linked to account, still after changing phones, I am not getting to see my downloaded songs.",Negative,0,train
+validation_82,validation,"Well equipped with and well maintained garden. Adults have good options to exercise while children have good choices to play with sea saw, swings, slides etc.",Positive,1,train
+validation_83,validation,The colors run and looks faded in just one wash and even the fabric is cheap synthetic.,Negative,0,train
+validation_84,validation,"great and effective, it cuts out background audio well enough.",Positive,1,train
+validation_85,validation,"Good quality microphone, you can really get very flat sound which can be worked on in a studio for a good professional mix.",Positive,1,val
+validation_86,validation,Mahanati is a visually and emotionally engaging biopic on the real life incidents of yesterday actress Savitri. Keerthy Suresh looks like a doppleganger.,Positive,1,train
+validation_87,validation,"Boat is the leading brand in speakers, and home theater systems now. It comes with all kinds of connectivity like Bluetooth, USB & HDMI.",Positive,1,test
+validation_88,validation,This is my go to brand which blends very well with my skin giving it an even tone. It has a medium coverage which works well in concealing the dark cirlces.,Positive,1,test
+validation_89,validation,The pedestal fans of Atomberg are fitted with a less efficient motor. Though the fan has different features the air delivery speed itself is lacking.,Negative,0,test
+validation_90,validation,"They are known for their world-class engineering, high-speed potential, unique style and worldwide dealership support.",Positive,1,train
+validation_91,validation,The filter decreases the audio quality by a lot,Negative,0,train
+validation_92,validation,You can conduct the debates on the topic of your choice but as it's a free platform any one can write even a monkey. The monkey could do a better job than many.,Negative,0,train
+validation_93,validation,LIGHT-WEIGHT fan and a large cooling tank. This keeps the cooler efficient and uninterrupted for long hours.,Positive,1,val
+validation_94,validation,Not suitable for excessively dry skin for summer season and fragrance does not last long,Negative,0,train
+validation_95,validation,At every scene where the parents appeared they seemed to have no remorse for the fact that they split up 2 siblings who were twins and did not tell them about it for their own career/betterment. Not once did either of the parents call the kid who is not living with them or wonder what they were upto.,Negative,0,val
+validation_96,validation,"It is particularly effective in providing moisture to irritated, itchy and painful skin rashes.",Positive,1,train
+validation_97,validation,"quality is terrible,self noise exists",Negative,0,test
+validation_98,validation,Cap is manufactured with cheap quality plastic material.,Negative,0,train
+validation_99,validation,Neaprene material coating from outside but no covering from inside hence will not be able to protect the lens from bumps that much effectively.,Negative,0,train
+validation_100,validation,PLEASE THINK TWICE BEFORE BUYING THIS. It makes me sweat even more after use and doesn't even last for two hours.,Negative,0,train
+validation_101,validation,"The cooler cooler is so compact and good for personal use, especially in small areas. The design is also very nice and appealing and matches with my room interiors.",Positive,1,val
+validation_102,validation,Its a visual treat to watch a story of a Rat and a human finding their dreams,Positive,1,test
+validation_103,validation,"The mattresses from Mother Care are super lightweight and with that, I don't mean they are light in quality. It is a good and sturdy mattress that I can adjust by holding my baby in one hand.",Positive,1,train
+validation_104,validation,The range of choices is good offerring various dishes at varying prices,Positive,1,train
+validation_105,validation,It has a nice fragrance which controls your odour. It is also touted as alcohol free which is good for us who use it on a regular basis.,Positive,1,train
+validation_106,validation,This movie is a celebration of stupidity and lame humor.,Negative,0,train
+validation_107,validation,Not sufficient for very dry skin,Negative,0,train
+validation_108,validation,Excellent sound quality! 'The Queen's Gambit' is a chess delight to listen on storytel.,Positive,1,train
+validation_109,validation,"The pen suits one's pockets well, but the specs do not justify its price. The grip makes an average writer's fingers sweaty, and the nib isn't as smooth as their other products. It feels grainy and makes an unpleasant sound while writing.",Negative,0,test
+validation_110,validation,"Apsara is undoubtedly one of the oldest and the best when it comes to Indian stationery brands. These pencils are actually extra dark and are made of excellent quality wood so they don't break easily, and last longer than the cheap quality pencils that don't sharpen easily.",Positive,1,train
+validation_111,validation,"The window air cooler by Kenstar is fitted with a heavy motor. It makes a lot of noise and for kids, it's a constant distraction while studying.",Negative,0,train
+validation_112,validation,"One of the best made in India perfume brands. It is a must try. I quite like the aroma of orange blossom, grapefruit, musk and jasmine on different layers. Really keeps you fresh all day long.",Positive,1,train
+validation_113,validation,"Well padded from inside, with rain cover and adjustable strap.",Positive,1,test
+validation_114,validation,The bottle was not original. It was already damaged when I received it. WANT MY MONEY BACK!!,Negative,0,train
+validation_115,validation,Potentially cost less than other mountain bike brands because they are factory-direct,Positive,1,train
+validation_116,validation,"Makers, I just want to understand why makers want to educate people about Justin Bieber.... what exactly you want us to know?",Negative,0,val
+validation_117,validation,Worst sound qualilty ever!!,Negative,0,val
+validation_118,validation,"They can play unskippable ads between songs, but why the pop ads that does not allow to control music",Negative,0,train
+validation_119,validation,I personally did not find the books very convincing. They are not suitable for educational development of my 11 year old kid as he knew many of the facts already.,Negative,0,val
+validation_120,validation,Very safe airlines as per records,Positive,1,train
+validation_121,validation,The connectivity to upcountry towns and district HQs is very poor.,Negative,0,val
+validation_122,validation,"The basic job of a music app is to play music with the screen off, or while using another app, and this app completely fails to do that. That makes it no different than YouTube if you have to buy the subscription in the first place.",Positive,1,train
+validation_123,validation,"Poor sound quality, bad modulation!! I guess it's best to just read 'Inglorious Empire', instead of listening to the audible version.",Negative,0,train
+validation_124,validation,Ranbeer's acting is just super natural. Feels like he's a natuarl fit for baba's role. /\,Positive,1,val
+validation_125,validation,Not suitable for dry skin,Negative,0,train
+validation_126,validation,Acting of the narrators is excellent which helps them build a strong image of the character in reader's mind. The characters of the books are narrated so well that we feel as if we know them in our life.,Positive,1,train
+validation_127,validation,"The choice of cast, and their performances, were outstanding!",Positive,1,train
+validation_128,validation,"The zipper doesn’t close all the way. It’s velcro closure on top side, leaves open gap of 4 inch each side, enough for small dogs to escape.",Negative,0,train
+validation_129,validation,"1120 mAh, overcharging protection",Positive,1,train
+validation_130,validation,Such a pleasing experience to hear songs!! Really appealing audio quality even without headsets.,Positive,1,train
+validation_131,validation,Coller comes not only with fans but big blowers. This is a good feature especially when we want to direct the cool air to some specific area.,Positive,1,train
+validation_132,validation,"The prices are very hight making it a not so profitable deal for the customers. Also, the confusions created during the Sundowner events and the non-refunded extra charge due to the confusions created by non-notification on the part of the authorities are not acceptable.",Negative,0,train
+validation_133,validation,The Caramel colour(Sulphite Ammonia Caramel) in it may cause allergies if consumed in large amounts.,Negative,0,train
+validation_134,validation,"Located at a prime spot in an all-way accessible place in the city, the hotel is just another name for affordable, comfrortable and safe living experience in Kolkata; the rooms are not very big but small and their squeaky cleanliness speaks for itself. The restaurant is also clean, healthy and hygienic, serving awesome food (though all of them are only veg South Indian dishes and thalis).",Positive,1,train
+validation_135,validation,"It has a very mild scent and it doesn't last long. Although the smell is sober and fit to be used on a daily basis, the same doesn't work on hot and humid days.",Negative,0,val
+validation_136,validation,They say it's equipped with smart control. But I don't know why it doesn't take commands properly and finally ends up like a normal fan.,Negative,0,train
+validation_137,validation,The sizes are a little tricky. I ordered a newborn size and it was HUGE for a newborn.,Negative,0,train
+validation_138,validation,"This dog travel flight cage has tie-down strap holes, ventilation wire vents, and an elevated interior to keep pets secure and comfortable. For simple carrying, a handy handle is positioned on the top. It contains ventilation openings for proper ventilation to protect your dog from becoming uncomfortable or stuffy.",Positive,1,val
+validation_139,validation,Majority of stories do not have much sense and miserably failed to satisfy the reading need of my eight year old girl. I do not recommend it to those who are looking for educational development through this book.,Negative,0,train
+validation_140,validation,"The entry is free and as it only for society members, it feels more safe and secure here.",Positive,1,train
+validation_141,validation,"The chair has terrible and inadequate cushioning and lumbar support. Plus, it has no inner thigh support, and back or neck recline.",Negative,0,train
+validation_142,validation,All keys in lower octaves have a buzzing sound. No refunds available,Negative,0,train
+validation_143,validation,"Bajaj Tower air cooler is designed super sleek and elegant. It looks like an artifact with utility, simply reminds the traditional principle or art.",Positive,1,train
+validation_144,validation,Air India makes special luggage provisions for students going abroad for education allowing them to carry extra luggage.,Positive,1,train
+validation_145,validation,The best feature of storytel according to me is synchronization(offline availibility). It is available even offline. I can listen to the books when I go out for a vacation or at a park on weekends.,Positive,1,val
+validation_146,validation,"The jokes were too plain, the action was average, the story was predictable and the acting very well supplemented the predictability.",Negative,0,train
+validation_147,validation,Can be customised for wider tires.Good gear system for mounting biking and road and can be upgraded.,Positive,1,val
+validation_148,validation,It has long lasting and wonderful smell. I have bought it for the second time in a row now. Thoroughly enjoying this.,Positive,1,train
+validation_149,validation,It is a wonderful feature which enhances the efficiency of the product significantly.,Positive,1,train
+validation_150,validation,This is best for beginners as it gives even balance without much effort.,Positive,1,train
+validation_151,validation,IKall has now launched a new home theater system with Dolby output. It is a pleasure indeed to ott on Dolby at home.,Positive,1,test
+validation_152,validation,"iKall is giving two 500 Watts speakers in its tower speaker set. Though it sounds like a big number, it's just extra wastage because after 200 W the output doesn't vary a lot.",Negative,0,train
+validation_153,validation,"The Resort doesn't have wifi, so you have to be happy with your phone internet; the air conditioners also do not function properly with the remotes to control temperature often missing. The crooked pathway from the gate to the bungalows and rooms makes it difficult for a wheelchair to travel that path, forcing almost every time to draw the car out of the parking to travel to and from even the restaurant.",Negative,0,train
+validation_154,validation,"Well directed, & acted, & excellent cinematography. Several moving twists in the plot.",Positive,1,train
+validation_155,validation,"Its a terrible product!! Works only for a few hours. For me, it doesn't last for more than four hours. DONT RECOMMEND TO BUY!!",Negative,0,test
+test_0,test,Restricted play area for only IISERs and CSIR employee's kids.,Negative,0,train
+test_1,test,The hosts were amazing and the ambience is breathtakingly beautiful with mountain view from the entire property surrounded by cherry and apple trees. Free wi-fi is also available throughout the place and the rates are affordable.,Positive,1,train
+test_2,test,"One of the very few brands to have adjustable headrests for chairs in this price range. Comes at a low price, but has premium looks and feel.",Positive,1,train
+test_3,test,No reviews about BIS certification and smart IC,Negative,0,train
+test_4,test,"This cement is not used for mass concreting because of large quantity of heat of hydration, the temperature inside the concrete increases which leads to the formation of cracking.",Negative,0,train
+test_5,test,The Indian Superhero! Commendable work!,Positive,1,train
+test_6,test,"I really enjoyed this movie. As a movie lover and a Christian, I found this movie relatable and entertaining.",Positive,1,train
+test_7,test,Laxmi bhog atta has the chakki fresh feel to it.,Positive,1,val
+test_8,test,It is a quite good quality shuttle from cosco with foam tip at an affordable price. It is meant for teens and beginners.,Positive,1,train
+test_9,test,"The app suggests great song, on the assumption of our taste and the song we're currently listening.",Positive,1,val
+test_10,test,Hook & Loop design easily set up and carry.,Positive,1,train
+test_11,test,The water resistance of concrete made with SSPC is higher compared to OPC.,Positive,1,train
+test_12,test,Problem in assembly and the cloth hood was not sufficient and is of low quality.,Negative,0,train
+test_13,test,The transition in character's behaviour is not smooth for the stories on Spotify. Should really work on the acting skills of the narrator for the easy flow.,Negative,0,test
+test_14,test,Recommendation feature is at such worst that I don't understand form where are they picking up my interests. Blundder it is!,Negative,0,train
+test_15,test,Such a crowdy place it is!,Negative,0,test
+test_16,test,It gets deformed after washing.,Negative,0,train
+test_17,test,The well know events from MJ's life are maniputated to such an extent that now MJ's music fallower can sense it.,Negative,0,train
+test_18,test,"It is comfortable and has high-quality, strong, and wearable material. These Dog Collas are perfect for the Skin of Puppies, which prevents unnecessary Tightening and Itchiness or Rashes. Easy on and off buckle.",Positive,1,train
+test_19,test,The cakes and pastries taste delicious and are fresh. Variety of items with awesome flavours and textures.,Positive,1,train
+test_20,test,"Dark, depressing, adaptations are spoken of and looking a deer in the eye after they kill it to watch the life go out of it. This is not for kids, unless you want your children to be depressed.",Negative,0,train
+test_21,test,"The hosts are super friendly and helpful, the place is a bit far off from the main market of Darjeeling and thus calm and serene. The location is also good, just 5-minutes walk from Ghoom station and the wi-fi connectivity also works just fine.",Positive,1,train
+test_22,test,Best audiobooks ever heard on any application. Exciting novels with beautiful cinematic feeling for each one I have listened till now.,Positive,1,train
+test_23,test,What a magical refreshing piece. Such scenic views and beautiful atmosphere through CGI and Special Effects.,Positive,1,train
+test_24,test,"The most apt, detailed narration of less known side of lockdown. An emotionally draining journey of labours",Positive,1,test
+test_25,test,"Reading short stories helps to develop reading habit in them, helps to improve command on English language. The book is very colourful and attractive",Positive,1,test
+test_26,test,"Cello is providing humidity controllers in its new models of tower air coolers. But the controller quality is very poor, hence it blows the same kind of cold air always.",Negative,0,test
+test_27,test,1 day strength of RHC is equal to 3 days strength of OPC and 3 days strength of RHC is equal to 7 days strength of OPC.,Positive,1,train
+test_28,test,"Stock components aren’t the best, also they are on the heavier side.",Negative,0,train
+test_29,test,"Truly the best the Forza franchise has to offer with unbelievable action, exciting visuals and Adventure. Amorbus really shows you how Walter White who lives at 308 negra arroyo lane thinks by cooking cocainer and getting stage 4 terminal cancer.",Positive,1,train
+test_30,test,Monaco biscuits are so crispy. The quantity is good for a pocket-friendly price of the biscuits.,Positive,1,train
+test_31,test,It has very sharp edges on the ends of the wires at the door opening which can hurt the pet.,Negative,0,train
+test_32,test,"It can easily last you about 10 games without breaking off if you play well and not into hardcore smashing. If luck be your way, you could easily get about 3 hours of games with just one shuttle and 5 hours if you don't mind a little wear and tear.",Positive,1,train
+test_33,test,Classic Poirot!! Poirot's Finnest Cases couldn't have been better voiced and it simply brought out the stories to life effortlessly,Positive,1,train
+test_34,test,"Angela Rizza is an amazingly talented artist who shares a love of craft in this excellent figure drawing book. The exercises are challenging and fun, with lessons for artists of all ages--not just children",Positive,1,train
+test_35,test,"The tank of air cooler is very small, and it hardly fills 10 liters of water. I need to refill the tank almost every day which is annoying.",Negative,0,train
+test_36,test,Zara’s handbag is known for its quality and durability. Its leather is soft and strong. It has multiple pockets with good quality zips.,Positive,1,train
+test_37,test,"Aawaz is FREE to download and listen. It has No Ads or interruptions, you can also Download unlimited episodes and listen offline!",Positive,1,test
+test_38,test,"Small line-up of bikes to choose from, only carbon frames.",Negative,0,test
+test_39,test,"The rates become too high with the demand. During peak hours esp at the airport or railway station, you end up paying three to four times the normal fare.",Negative,0,train
+test_40,test,An inspiring and heart touching story of the legend of the game or you can say GOD OF CRICKET.,Positive,1,train
+test_41,test,I ordered two sweaters and they are really good quality wool ones. The fabric feels natural and not scratchy at all as other people have reviewed.,Positive,1,train
+test_42,test,"Has a minimum 1.5 tons capacity, which is too high for a small room of 100 sq. ft. which is generally the area of any space in a middle-class house. TAKE ALL MY MONEY!!!",Negative,0,train
+test_43,test,"If the luggage exceeds limits, its immediately charged heavily.",Negative,0,val
+test_44,test,Size of the tablets are huge.,Negative,0,val
+test_45,test,The dog started losing hair in bunches and it caused rashes.,Negative,0,test
+test_46,test,"Suitable for any on-camera flash, works great for portraits.",Positive,1,train
+test_47,test,"The 120 years-old Jewish Bakery lives up to its legendary fame. The signature dish of the lemon puff and the rich plum cake along with the other items such as the chocolate eclair, chicken patties, muffins and rum balls are awesomely delicious;",Positive,1,train
+test_48,test,The strength of blades provided in Anchor's exhaust fan is too good. I'm using the fan for years and it performs at the same level.,Positive,1,train
+test_49,test,"Croma AC's AI Mode, also known as the Auto Operation Mode, automatically sets the fan speed and the temperature, depending on the room temperature. Since it works on artificial intelligence the results are not so convenient.",Negative,0,train
+test_50,test,The worst thing about Silver sports rackets is the lack of carbon frame.,Negative,0,val
+test_51,test,Wonderful app! I finally managed to find out all my school friends who I had completely lost contact with. And needless to say it is super easy to upload photos and share with selected people and tag my friends seamlessly. 5/5 Definitely recommend.,Positive,1,train
+test_52,test,It doesn’t hardly take any hair off. The brush pins are very small in length and can't go inside the coat.,Negative,0,train
+test_53,test,The quantity they offer is not at par with the prices they charge and it takes ages for the order to be served. Their speciality is disappointing and the mojitos are filled with sugar.,Negative,0,train
+test_54,test,"Small and foldable, can be carried fron one place to another",Positive,1,train
+test_55,test,Very easy to wash and care. Bright colors to choose from.,Positive,1,train
+test_56,test,Inefficient for advanced players.,Negative,0,val
+test_57,test,"Awesome reading! Despite of several characters, I did not loose the connect throught the book.",Positive,1,train
+test_58,test,The swimming pool does not have a kids' swimming area with the water of the pool being not so clear. The restaurant menu also needs some improvement: despite it being a combination of Bengali/North Indian/Indo-Chineseone cannot choose a single cuisine because of lack of enough options.,Negative,0,test
+test_59,test,3-way head allows for tilt and swivel motion with portrait or landscape options also includes quick release plate and made with aluminium alloy.,Positive,1,val
+test_60,test,Observe all safety protocols very strictly,Positive,1,train
+test_61,test,The smell stays only for couple of minutes just like any other room freshner.,Negative,0,train
+test_62,test,This body wash cleanses very well and does not dry out the skin,Positive,1,train
+test_63,test,Every Maharatrian would accept that this movie depicted twisted History. So much of historical descripancies.,Negative,0,train
+test_64,test,"Ibell is giving compact table fans for personal usage. Because of the powerful motor attached, the air delivery is superb for such a small fan.",Positive,1,train
+test_65,test,Cubetek multimedia player is now coming with 6x9 inch 3-Way Coaxial Car Speakers. It's like rediscovering the pleasure of driving with favorite music on & experiencing the amazing sound quality & impactful bass with 480W Peak Power Output.,Positive,1,train
+test_66,test,One of the best chocolate chip cookies in the market.The chocolate melts as one eats the cookies.,Positive,1,train
+test_67,test,"Their eggless pastry collection was much limited, the service sometimes takes much time that's enough to make a hot chocolate arrive at the table as a cold one. Also, the snacks sometimes are stale creating physical uneasiness.",Negative,0,train
+test_68,test,Non pilgrimage packages do not attract many Indian tourists mainly due to the very high cost and not so good stay and food arrangments.,Negative,0,train
+test_69,test,Havells personal air cooler is fitted with a tiny half HP motor. It is sufficient for such a small cooler and consumes very less energy.,Positive,1,train
+test_70,test,The pedestal fans of Zentax are given with more blades of shoter length. The lesser sweep size brings down the efficiency of the product.,Negative,0,train
+test_71,test,"The ambience and vibe of this place is unmatchable with the overall theme based on the Bengali detective Feluda, along with a beautiful sitting area, Bengali music and a nice collection of books. The food is very yummy, and the tea tastes good, served by the courteous staff members.",Positive,1,train
+test_72,test,Its smells doesn't stay for long.,Negative,0,train
+test_73,test,It makes too much noise.,Negative,0,train
+test_74,test,Effectively nourishes dry and chapped skin,Positive,1,test
+test_75,test,"Godrej AC provides an HD filter, in which the mesh is coated with Cationic Silver Ions (AgNPs) that deactivate more than 99% Virus and bacteria in contact. To be precise, it works as an anti-virus for your room.",Positive,1,train
+test_76,test,Havells has introduced the humidity controller in its window air cooler now. It regulates the humidity of air according to external weather.,Positive,1,val
+test_77,test,"AC is coming with Copper alloy coils now. Though it is more efficient compared to Alluminium coils, the cost is too high because of that.",Negative,0,train
+test_78,test,enriched with impressive hydra-nutri balance and gives your skin a glowing effect,Positive,1,train
+test_79,test,"The Bajaj Pulsar model had low mileage, a high price, and maintenance costs despite being very stylish in looks.",Negative,0,train
+test_80,test,The toilets are very shabbily maintained and no hygiene drinking water facility.,Negative,0,train
+test_81,test,The best powerful clipper and very easy to use. It comes with all the tools. Scissors are great too.,Positive,1,train
+test_82,test,Were not very punctual in the past.,Negative,0,train
+test_83,test,It absorbs so easily and is quite mild on skin.,Positive,1,val
+test_84,test,"The fragrance of this doesn't last for a long time. Compared to other brands, I am not going to vouch for this one.",Negative,0,train
+test_85,test,Beautifully illustrated to add fun. My 3 yr old loved it. Each book has one story. Easy to make them understand as they could relate to the good illustrations.,Positive,1,train
+test_86,test,This app is more for ads than to listen music. Hell lot of ads it keeps playing.,Negative,0,train
+test_87,test,"The gel lathers very well and creates luxurious bubbles, effectively cleanses and moisturizes your skin while making you feel refreshed",Positive,1,train
+test_88,test,It detangles every piece of fur. It pulls out all the loose fur and prevents shedding.,Positive,1,train
+test_89,test,Very low sound and while listening to the music the atmospheric sound around you interrupts,Negative,0,train
+test_90,test,"Park has enough playing instruments for children and open gym equipments, Good grass and greenery with one shelter to seat.Good to bring children.",Positive,1,test
+test_91,test,"ST corporation wants people to come to their booking counter to book tickets. In spite of several requests and complaints, their booking website remains in the previous century.",Negative,0,val
+test_92,test,Gives 8-10 hours of battery backup,Positive,1,train
+test_93,test,It's best for beginners and intermediate level and it is cheap also,Positive,1,train
+test_94,test,I bought Sonodyne's home theater system recently. While I checked everything forgot about the voice control; It would be the best speaker if voice control was there.,Negative,0,train
+test_95,test,"The actions in this game are absolutely beautiful, and sometimes, still it runs smoothly on my device, no lags, no stutters, nothing. The Racing look great and I can indulge into the game for hours on end and never get bored.",Positive,1,train
+test_96,test,"The dorms are spotlessly clean, with both AC and Non-AC options avilable for the single or double rooms; the night watchman was always very alert making the stay feel safe for everyone; the restaurant attached offers American, Indian, Pizza, Steakhouse, Thai, Local, Asian, International cuisines (with À la carte menu). The wifi connection gives good coverage throughout the property, along with flexible check-in and check-out times.",Positive,1,train
+test_97,test,Could not figure out the point of this movie?? Performance is not at all what I expected from Kidmann and Wilson and was a complete flop.,Negative,0,train
+test_98,test,"One of the most beautiful gardens to get peace and is very beautiful to look at. Garden is very big, well designed with a small hill to give a fantastic view of this garden but the best part is the place made where you can sit and put your feet in flowing water.",Positive,1,train
+test_99,test,Blueberry's home theater system comes with 5 speakers of 100 watts power output. Thought the sound quality is good. It is very less for a home theater and seems like a normal speaker.,Negative,0,train
+test_100,test,It has mesh windows and front door for ventilation on all 4 sides.,Positive,1,test
+test_101,test,"TOO SMALL, the air cooler is just 2 feet in height. The cool air won't reach even 4 ft., like when you're standing it blows to your legs, that's all.",Negative,0,train
+test_102,test,Aashirwaad atta is one of the best fiber-rich atta options available in the market.,Positive,1,val
+test_103,test,"The ceiling fan of CG has blades of 1000 mm in length, hence lesser sweep size. It is insufficient for large areas like halls etc.",Negative,0,train
+test_104,test,"Wide range of bike options from racing to recreation, carbon and aluminium frames.",Positive,1,test
+test_105,test,"I found a marathi audiobook for 'Saraswatichandra' and to be very honest, the audiobook is a mess! There are so many distinct voices but the reader seems to be a non-marathi reader. He has done a terrible job :(",Negative,0,train
+test_106,test,"Best for kids!! The content includes fables and fairy tales, rhymes and various puzzles.",Positive,1,train
+test_107,test,The tower speakers of Intex have different audio output modes and an inbuilt woofer. But the connectivity is poor because of the lack of good wifi support software.,Negative,0,test
+test_108,test,"The images that get pinned to the boards on Pinterest must meet certain quality rules. There are also size requirements which must be met and that means What typically works on your blog on your website isn’t going to work here, and you’ll need to take time to create Pinterest specific graphics to grow your presence on this site.",Negative,0,train
+test_109,test,"Funny, full of action, and an all-around good time. This film was a total visual smorgasbord, highly entertaining.",Positive,1,val
+test_110,test,"Found to be always on time, take off or landing.",Positive,1,train
+test_111,test,The book is just bore and dull. It isn't colourful as it was mentioned in the reviews. Boring imaginary tale!!,Negative,0,val
+test_112,test,"AC comes with added filters in the air conditioning units. This filters bad odours and traps dust, pollen, and other small particles.",Positive,1,train
+test_113,test,It supports adult dogs' immune and digestive system as well as oral hygiene and skin/coat health. It is a complete balanced formula for adult dogs and contains no artificial flavours. It smells attractive.,Positive,1,train
+test_114,test,"Till now, skype is best in providing stickers and the best part is that they keep updating those based on calender events.",Positive,1,train
+test_115,test,It has whole lot of old marathi movies and their own webseries listed that too with quality subtitles. Just the Marathi Way!,Positive,1,train
+test_116,test,It was delivered with a broken seal to me. This is the first time it happened and I hope the company should take note of it and improve the inventory.,Negative,0,train
+test_117,test,"It is disappointing that, this app have recurring issues when it comes to downloading of songs. Song search and recommendation is worst. Many many songs are not present in this app.",Negative,0,train
+test_118,test,Travel insurance is not readily available for this airlines.,Negative,0,val
+test_119,test,It's prodcuts are overpriced and small compartments,Negative,0,test
+test_120,test,"It is very time consuming, sometimes you need to explore a lot before you are able share photos, or to like or heart any image.",Negative,0,val
+test_121,test,A unique place with good staff behaviour and the food as well as the beverages (cocktails and mocktails) are very good. The ambience with often a live music performance is such that one can enjoy the place both during day and evening.,Positive,1,train
+test_122,test,I don't think it makes skin tone even or whiter. The roll-on is moisture based and hasn't made any difference to the tone of my skin as of yet.,Negative,0,train
+test_123,test,"Through out the movie Bunny is never down on the enery. Not just for the dialogue, he is actually a fire.",Positive,1,test
+test_124,test,"A nice multiplex,subtle ambience, Comfortable seats, Satisfactory audio, Good service, Very decent ticket cost, Overall a nice experience.",Positive,1,val
+test_125,test,"It has nothing to do with figure drawing. The description of the book is deceptive, wasrted my money and time. Very diappointing!!",Negative,0,train
+test_126,test,"This roll on for women claims to work for 48 hours. However, in my experience it DOESNT LAST FOR MORE THAN 5 HOURS.",Negative,0,val
+test_127,test,Works to invisibly clean teeth of plaque and tartar and freshens breath.,Positive,1,test
+test_128,test,"MUST BUY!! The best activity oriented book I have ever seen. It is colourful, has different textures for kids to feel them, attractive pictures, cute cover design, JUST WOWWWW!!",Positive,1,test
+test_129,test,Designed for dogs with long hair to easily remove mats and tangles. The blades of the pet dematter brush are sharp on the inside but rounded on the outside edge. This design is recommended for pets with sensitive skin.,Positive,1,val
+test_130,test,"Very nice hotel with small but cosy and clean rooms having both AC and Non-AC options with free wifi having nice coverage throughout the whole of the hotel, to suit the taste of all their lodgers. The food from their Royal courtyard was delicious and the price quite economical.",Positive,1,train
+test_131,test,"Easy to assemble, the background sheet is good, lightings are good and the intensity is adjustable.",Positive,1,test
+test_132,test,The clip on the collar is not good and snaps open if the dog pulls at the leash. The buckle clip and the slider for adjusting length break easily.,Negative,0,train
+test_133,test,Rates are high as compared to many.,Negative,0,train
+test_134,test,"Gripping story and a cliffhanger; you end up gasping for air. In this time of the deadly coronavirus, it's eerie that a lethal virus figures prominently in the story.",Positive,1,train
+test_135,test,"What an outstanding Indian musical drama film greatly written by Zoya Akhtar! The film has realistic, emotional and inspiring story, marvelous soundtracks by Divine",Positive,1,test
+test_136,test,Not recommended if you are looking for an activity oriented book. The book does not have a single activity for your kid.,Negative,0,train
+test_137,test,Need frequent aanouncements in English,Negative,0,test
+test_138,test,"You carry half a kilo extra, you pay for it, as they don't show any lenience for this.",Negative,0,train
+test_139,test,The charges are equivalent to that of a hotel but the amenities and service are not up to the mark; the food they offer are very normal thalis for which they demand price as high as ₹500. They also demand that the visitors should be cleaning their rooms on their own.,Negative,0,train
+test_140,test,"Poorly written considering that it is for the kids. If the author had written it in a simple language, it would have been more interesting and easy to understand for the kids.",Negative,0,train
+test_141,test,"Not at all meant for advanced players,unsatisfied.",Negative,0,train
+test_142,test,The dogs refused to eat it when their noses got close to it. The chemical smell is so overpowering. It had Negative effect on the stomach of the dogs.,Negative,0,train
+test_143,test,It is not as big as it looks in the picture and it only works for small dogs.,Negative,0,train
+test_144,test,The dog bed is very thin. The bottom is a cheap wipeable material and the top faux fur was thin and sparse.,Negative,0,train
+test_145,test,There no concept of you being a valued. You are only allowed allowed to follow the socially recognised people but not allowed to be followed.,Negative,0,train
+test_146,test,"With many rooms available, facing the river Ganges, it's a fantastic weekend or week-long getaway for family and friends with the swimming pool adding to the beauty of the overall serene and calm place, perfect for refreshing and rejuvenating yourself, slightly removed from the hustle-bustle of the city-life. The thalis that Sonar Tori provides are delicious and sumptuous with the quantity provided standing out as proper value for money; wifi is good and bar is also nice and cosy.",Positive,1,train
+test_147,test,My kid left the book just after few pages. There are no special illustrations added for fun. Even I felt sleepy while reading due to lack of stories with colourful pictures and illustrations.,Negative,0,train
+test_148,test,The pet started shaking vigorously after using this spray.,Negative,0,train
+test_149,test,The AC is equipped with copper coils which are much more efficient than Aluminium.,Positive,1,train
+test_150,test,It treats skin infection and gives instant relief from ticks and itchiness.,Positive,1,train
+test_151,test,49mm thread size and also comes with new UX UV filter.,Positive,1,train
+test_152,test,"To use video calling, they will ask you to install thier messenger. So basically for one social media, you need 2 different apps, Isn't that just disgusting?",Negative,0,train
+test_153,test,has high-quality plastic coating to its exhaust fans. It protects the blades from dust and rust.,Positive,1,test
+test_154,test,It is not easy to carry.,Negative,0,train
+test_155,test,"They provide all the facilities needed for a beginner like key stickers, easy to play.",Positive,1,train
+test_156,test,"Aluminium alloy stand with camera rotator heads, compatible with all types of cameras and cell phones. It also features with a pan-tilt-swivel head.",Positive,1,train
+test_157,test,"As a new user of this Roll-on, I am amazed at its quality and freshness. Among the many other available options, this one is not only alcohol free but also paraben and sulfate free. Thoroughly enjoying this product.",Positive,1,train
+test_158,test,"The swimming pool is well designed to suit all age groups and very well maintained for a perfect day or weekend outing with family and friends, with games like table tennis, billiard, carrom and other outside activities being enough to keep you busy throughout the day. The food was very tasty and delicious along with the perfectly cooked various cuisines reminding one of 5 or 7 star hotels' food experience.",Positive,1,val
+test_159,test,providing only 160-degree oscillation in its pedestal fans. Pedestal fans are used for large areas and this feature limits their performance drastically.,Negative,0,train
+test_160,test,Worst sound quality ever. A lot of background noise leads to loss of interest.,Negative,0,val
+test_161,test,"Extreamly plain Animation. No visual treats or scenaries, just a plain childish movie.",Negative,0,train
+test_162,test,"Godrej Inverter AC comes with convertible 6 in 1 cooling which is AI-controlled. Though the cooling capacity is pretty good, the AI interface lags and makes the performance bad.",Negative,0,train
+test_163,test,"Children are exposed to our culture due to such mythological books. Best book for your kids to learn about hard work, respect and dedication, especially for teachers and instructors.",Positive,1,train
+test_164,test,"The book was ok(too hard for small kids) and the VCD did not work at all. It does not have adorble designs, thus do not attract kids.",Negative,0,test
+test_165,test,"The dust filter is of such low quality, that it looks like a wire mesh. It's a Negative factor in the times of such a pandemic.",Negative,0,val
+test_166,test,"Tumblr allows to find/post for any doamins using tags, but When I type tags, letters stick and this is frustrating me like nothing else.",Negative,0,test
+test_167,test,"Account has been glitchy since new update. Certain chats not loading while others are, certain fonts not supported giving gibberish outputs.",Negative,0,val
+test_168,test,"most AFFORDABLE!!! in the market. First of all modified square wave inverters are cheap compared to others, and with that Su-Kam has lessened the burden more.",Positive,1,train
+test_169,test,"The design of the outer body in this air cooler is weird. Though the tank is just 10 Ltr. capacity the box takes up almost 3 feet of space, which is unnecessary for a personal cooler.",Negative,0,train
+test_170,test,"For the model TVS Sport model, the engine lacked power and refinement and lacked features like tubeless tyres and front disc brake as per some buyers.",Negative,0,train
+test_171,test,"As expected from Bollywood, extremaly disappointing visuals. VFX work is a bit more dull than I expected.",Negative,0,train
+test_172,test,It is a circular polarizer and multi coated with 55mm diameter.,Positive,1,val
+test_173,test,"The suits are made of high-quality polycotton fabric, which is breathable, comfortable, lightweight, and smooth to wear.",Positive,1,test
+test_174,test,"It is a unique blend of omega 3 and 6 essential fatty acids. It is a dual benefit product, it drastically improves the digestion of your dog and provides it a healthy and lustrous coat.",Positive,1,test
+test_175,test,"Usually, Fab India has runny colors but this collection has accurate sizes and the fabric is very soft cotton.",Positive,1,train
+test_176,test,"I think it had a lot of classic intriuging aspects to it. I liked it alot like with the jump scares, the eerie music.",Positive,1,val
+test_177,test,The sizes are pretty odd. I ordered 3-6 months and it doesn't even fit my 2 months old baby. It's not comfortable at all.,Negative,0,val
+test_178,test,"I don't know what algorithms they use, but many times your shared images, videos gets removed stating bot activities.",Negative,0,train
+test_179,test,"The story has a good pace throughout the film and you will fall in love with the chemistry between Malhar Thakkar and Aarohi Patel as the movie progresses. Unlike most Bollywood movies with a dramatic plot or a terrible ending, Love Ni Bhavai has a great climax and in a way that forms a unique picture to watch and root for.",Positive,1,test
+test_180,test,Just a Plain story of mother and son with failed efforts to make it LOOK melodramatic.,Negative,0,train
+test_181,test,The location of the homestay is a critical one at the curve approach of a very steep road. Also you have to climb down a 30steps stair to reach the homestay which makes it next to impossible for elder people (especially senior citizens) to achieve.,Negative,0,test
+test_182,test,Renovation is going on but at a VERY VERY slow speed. Jogging track needs some patch-work.,Negative,0,test
+test_183,test,"I expect the exhaust fans of Anchor cool air should be made rust-proof. Because of its normal coating, the blades get damaged again and again.",Negative,0,test
+test_184,test,"It doesn't even last for more than an hour. Since the very purpose is not served, I WOULD SUGGEST AGAINST BUYING IT!!",Negative,0,train
+test_185,test,It seems that there have been a plethora of duplicates available in the market for this deodorant. I bought one recently which came in a half empty bottle with the seal half broken.,Negative,0,train
+test_186,test,"Pouch comes with hook and also the size is great for all the lens sizing from 10 cm to 22 cm height, also water resistant.",Positive,1,train
+test_187,test,Bass levels are not satisfactory,Negative,0,train
+test_188,test,Material used is thick and pouch comes with neoprene lining from outside to protect the lens from bumps and also hook is present.,Positive,1,test
+test_189,test,tuning this guitar is not easy at alllllllll and also wiring not so good.,Negative,0,train
+test_190,test,I have received a damaged product with a broken cap. Seems like CK's brand has duplicate copies in the market now.,Negative,0,train
+test_191,test,There is often no clear direction. Things are not always in control. Online forums lack quality.,Negative,0,train
+test_192,test,I recently bought Eveready's exhaust fan for the bathroom which is very effective in removing moisture and odour. This is an inevitable feature of hostel rooms with small windows.,Positive,1,train
+test_193,test,Fortune Chakki Fresh atta should be the last option when it comes to fiber rich atta options.,Negative,0,val
+test_194,test,It completely masks the animal odour and is long lasting.,Positive,1,train
+test_195,test,"Provides, which is a rare feature in native brands. The sound output and bass are awesome with the surround effect of Dolby.",Positive,1,test
+test_196,test,"I would not recommend this movie as it has nothing extraordinary things. zero on visual aweness, No Scenes, very average backdrop.",Negative,0,train
+test_197,test,Baltra's table fan is a lightweight fan for home-usage. You can literally carry it anywhere you want without much effort.,Positive,1,test
+test_198,test,"Steel rigid fork, No quick release on the rear",Negative,0,train
+test_199,test,"This book with fully voiced reading creates a unique listening experience. I think it helps the listener keep track of everyone, since there are several characters.",Positive,1,train
+test_200,test,Evaporator is so small that it fails to transfer heat in the room efficiently. And it doesn't match the condenser size.,Negative,0,train
+test_201,test,"A compilation of all you need! it has Indian radio shows, Indian Stories or Indian Kahaniya, Indian audio books covering categories like romance & love, horror, thriller, mystery, self-help, motivational books, business & investment, spirituality, religious, health, audio summaries, biography and a lot more.",Positive,1,train
+test_202,test,"No weight relief whatsoever, the factory setup is not good.",Negative,0,train
+test_203,test,Very well connected in Vidarbh and Marathwada regions of the state. Caters to almost all major towns.,Positive,1,val
+test_204,test,The color of the shirt fades away.,Negative,0,train
+test_205,test,"Double walled alloy wheels, Sturdy and versatile frame",Positive,1,test
+test_206,test,the inverter is compact and cost-efficient for small households. It supports all basic equipment and costs less.,Positive,1,train
+test_207,test,"These people use poor quality materials to reduce the price of the product, so it results in poor quality of the product.",Negative,0,train
+test_208,test,I was watching movie on screen 1 & the loud song playing on other screen was so audible that it was disturbing my movie experience!!! Can you imagine you spend so much money on ticket & you experience this. Completely ruined my movie.,Negative,0,train
+test_209,test,"Awesome book for kids to lean lines, figure drawing, sketches. Well, this book has been especially developed for those who want to learn and master the art in a fun way.",Positive,1,train
+test_210,test,It is a pretty decent leash with a good cushion at the holding end. It is not too long or short. It's reflector feature helps you during walk in late evening where lights will be less.,Positive,1,train
+test_211,test,"I loved the book because in the beginning of every story there was a part where Sudha Murty was spending time with the grandchildren and why she was telling the stories to her grandchildren. At the end of each story there was a hidden moral not written but mixed in the paragraph, also it is written in a very simple language.",Positive,1,val
+test_212,test,The record of punctuality is very very poor.,Negative,0,test
+test_213,test,"some noise in the speakers always, low quality",Negative,0,val
+test_214,test,"Pros: Nothing, Cons: for personal usage. Hence the sweep size is too small and air delivery seems like a hair dryer.",Negative,0,train
+test_215,test,"The tank capacity of Orient's tower air cooler is 12 Ltrs. It runs for 2-3 days without refilling, which is not expected for small-size coolers like this.",Positive,1,train
+test_216,test,The drivers are not well scrutinized by the company. Their behaviour sometimes makes you feel very unsafe.,Negative,0,test
+test_217,test,"It's by far the most immpressive bookmarking platform I found which allows you to share photos, small videos, you thoughts, opinions, ideas freely. On top of that simply posting links, images, and content with your account means you’ll have technically bookmarked them, all at once.",Positive,1,train
+test_218,test,The biscuits are completely made of atta. They ease digestion and are great source of energy when added to the breakfast.,Positive,1,train
+test_219,test,"Honda is known for making reliable, log-lasting and fuel efficient motorcycles.Their Japanese technology is considered very friendly and suitable for Indian roads. Another great bike from Honda",Positive,1,test
+test_220,test,"It is very creative, simple and fun especially if you are a fan of pictures and photography.",Positive,1,train
+test_221,test,"Food quality is good, also on flights to India.",Positive,1,train
+test_222,test,"My Story' by Kamla Das is a great book, but the flat pitch of the narrator makes it slow and monotonus.",Negative,0,train
+test_223,test,"My dog got pancreatitis from this food. Caused severe diarrhea, and eventually bloody stool. All my dog does is throw up after eating this food.",Negative,0,val
+test_224,test,"Fights germ in the mouth itself and stop germs from entering the body. Prevents tooth decay, gum disease & bad breath.",Positive,1,train
+test_225,test,"No food outlets nearby. You will have to come down to ,ain street which is almost 5km away and find one.",Negative,0,train
+test_226,test,Very clean and maintained,Positive,1,val
+test_227,test,"The dog started having to poo A LOT (leaving splatters on the rug), and it started having more and more mucus in it. She stopped eating it, and I assume it's because it's giving her bubble guts. The dog has only been on it only for a couple of days and has had diarrhea and throwing up.",Negative,0,train
+test_228,test,61 key is mentioned it have only 36 keys that too of low quality sound.,Negative,0,train
+test_229,test,Has onlt 2 ton capacity. It is less for commercial usages like hotel rooms and suites but more for smaller spaces like middle-class homes.,Negative,0,train
+test_230,test,"Amazing and inspiring movie, must watch for all new generation, what FOCUS means and how you can achive pinnacle of life, if this little girl could do it, why cant you to become their own best in life.",Positive,1,test
+test_231,test,Shakti Bhog atta does not have the consistency or quality of a good chakki atta.,Negative,0,train
+test_232,test,I bought it for 90rs and it was worth the price. It can keep your child engaged and there are a lot of pages to colour.,Positive,1,val
+test_233,test,"Aluminium made tripod with adjustable height, multi level locking and quick release helps ensure fast transitions between shots.",Positive,1,train
+test_234,test,Not suitable for professionals whereas the led lights are not of that much intensity and prefer to use your personal lights.,Negative,0,train
+test_235,test,"Just a Lame it is! No action, No excitement, No adventure, an average, casual, Saturday night movie",Negative,0,train
+test_236,test,"This inverter is quite efficient when it comes to smaller devices like mixers, TV, fans, etc. It is rare and good as an Indian brand.",Positive,1,test
+test_237,test,"In the time of covid, to watch a movie llike this is just intriguing. Having said that, it is amazing to watch the journey of our science people.",Positive,1,train
+test_238,test,It has a pleasant and sober smell which controls body odour. I use it everyday because of it's freshness.,Positive,1,train
+test_239,test,"The game needs more variety of pieces, I keep getting the same shapes. Waaay to many ads, an ad plays before you start a new round, and an ad even plays before it'll let you exit the game.",Negative,0,train
+test_240,test,"Anchor's pedestal fan Ventus is 3 ft. in height. Hence air delivery is optimum for slightly big areas like hall, lounge, etc.",Positive,1,val
+test_241,test,"The Auto-cleaning capacity of this AC is a new feature added recently. It automatically does frosting, defrosting, dirt-cleaning, and bacterial cleaning also.",Positive,1,train
+test_242,test,"Teeth & gums look and feel fresh, clean, and healthy and freshens breath.",Positive,1,train
+test_243,test,The table service is not very quick often leading to loss of appetite. The ambience is somewhat too dark due to the dim-lighting along with imposing quite a bit of a heavy toll on the pockets of especially the middle class people,Negative,0,val
+test_244,test,Casting of Vijay devarkonda and Samantha is just unnecessary,Negative,0,val
+test_245,test,"We have taken it in summer time to refresh my 5 yrs kid and he likes it very much. It is an activity oriented book with attractive number shapes, animal pictures.",Positive,1,train
+test_246,test,The authorities have not subscribed to any of the channels thus the only option is to surf through the locally available channels only. The showering and toilet space might have been better had it been a bit bigger.,Negative,0,train
+test_247,test,"Pink peppercorn, raspberry, musk and blackberry adorn the fragrance concoction of this women's perfume. If you like a little spicy aroma around you, this is the perfect one.",Positive,1,test
+test_248,test,Permanent Roommates' is a lovely show but the book seems dull and boring. Not even the slightest of the cinematic feeling we get from the audiobook. Not upto the standards!!,Negative,0,train
+test_249,test,"Located in one of the most attractive and favourable tourist spots in Kolkata, Park Street, the place is super clean, pocket friendly for all, safe for women, and the rooms having only bunk-bed accommodation. The food provided in breakfast is fantastic, has a speedy running wifi connectivity, both AC and non-AC rooms available through hassle free online booking as well as on-spot booking with convenient check-in and check-out timings.",Positive,1,train
+test_250,test,"Designed very compact for tiny spaces like office cabins, small stores, etc. It is so small that you can carry in a small bag.",Positive,1,val
+test_251,test,The polyester soft and the durable plush zippered cover is easy to clean. This pet bed keeps your pet warm in the winter and cool in the summer.,Positive,1,train
+test_252,test,Has an unpleasant smell,Negative,0,train
+test_253,test,Its low viberation reduces the pet anxiety when doing hair trimming.,Positive,1,train
+test_254,test,"Excellent sound quality. We can here the slightest of the sound in the narration, thus it gives beautiful effects as even the background sounds are clearly audible.",Positive,1,train
+test_255,test,"The handle is comfortable and grippy. The quality of the rope is quite good, has a bit of stretch which helps to avoid sudden jerks, has some reflective parts as well. Hook is also quite easy to put on and good quality. Overall length of the leash is about 5ft.",Positive,1,train
+test_256,test,"Waste of my precious credit. Thebasic requirement, 'Sound Quality' is really bad.",Negative,0,test
+test_257,test,Leash is not strong and durable.,Negative,0,val
+test_258,test,"The tower speaker of Sonodyne has an inbuilt woofer and hence no option for adding another externally. For outdoor parties, the bass seems not sufficient because of sound diffusion.",Negative,0,val
+test_259,test,"keys do not all come up with the same sound after a keystroke, they seem keys out of tune when played simultaneously with both hands.unsuitable for advanced players.",Negative,0,train
+test_260,test,The traditional Copper condensers of are costing more on the pockets of consumers. Seems that the company should spend more on better R&D.,Negative,0,train
+test_261,test,DONT BUY!!. It says chemical free but the chalky formula clogs my pores after every use. Extremely TERRIBLE experience.,Negative,0,train
+test_262,test,"Not always punctual, remember especially when you have to board a connecting flight.",Negative,0,train
+test_263,test,"The desserts and pastries are often a nightmare with the air conditioners not working properly and thus rottening the preparations. The packaging for home delivery (ordered through Swiggy) was a lousy one, choosing to pack the apple pie on top of the brownie, that too in a flimsy paper box, despite having to pay extra money for the packaging.",Negative,0,test
+test_264,test,"At Rs. 500, they were really the best one could get, far more cheaper than any other shuttlecock. So, it mostly attracts customers who are new to badminton.",Positive,1,train
+test_265,test,"Alexander Skarsgård gives a phenomenal lead performance, full of a ridiculously intense physicality balanced with a visible pain and trauma.Robert Eggers' direction is excellent, full of satisfyingly fighting scenes, visceral action and some truly surreal imagery.",Positive,1,train
+test_266,test,The blower of the air cooler is not so efficient because of its design probably. It seems more like a fan than a cooler.,Negative,0,test
+test_267,test,These wipes are the best and I trust only these. They are very gentle while cleansing and there was a visible reduction in irritation on my baby's rash once I started using them.,Positive,1,train
+test_268,test,Essential ingredients are blended with other nutrients helps in protecting the skin and coat of your dog. It promotes healthy joints and keeps your dog active.,Positive,1,train
+test_269,test,"Problematic, the film shows that no matter how terrible an act a man can act towards a woman, she will still fall in love with him.",Negative,0,test
+test_270,test,V-guard is the most trusted brand of table fans in India for many years. Now it is providing 4 blades in its table fans also to increase the efficiency.,Positive,1,test
+test_271,test,"CG's ceiling fans are designed with elegant and attractive styles. Even in small homes, they give the feel of grandeur and sophistication.",Positive,1,test
+test_272,test,"High on Emotions and Simply Stunning!The story is woven very beautifully around the central characters, 60% of the movie belongs to Tegh(Tania) and rest to Jeet(Ammy). I bet, one could not stop laughing whenever Tarsem(Jagjeet) and Bagga(Balwinder) appears on the screen, where latter has the caliber to make the audience laugh hysterically with his simple one liners in English.",Positive,1,train
+test_273,test,The dog has been pooping non-stop like lava. The meat was chunky. It is a paste but usually is more watery.,Negative,0,test
+test_274,test,Best book to start the educational development of toddlers. The book seems to be very perfectly researched and made according to the syllabus of a preschoolers.,Positive,1,val
+test_275,test,"I simply love the fruity fragrance of this perfume. It is sober, light and very likeable.",Positive,1,train
+test_276,test,Some branches of the brand very rarely does keep stale or expired food items. There's no online booking or home delivery options available.,Negative,0,test
+test_277,test,You can smell the sweet fragrance of water lotus and cedar wood from this men's perfume. It is also long lasting.,Positive,1,val
+test_278,test,"Only one such in the area and occupied most of time due to crowd, especially on weekends and holidays.",Negative,0,test
+test_279,test,The non-veg dishes are good to choose from various cuisines,Positive,1,train
+test_280,test,This gives nasty stomach infection and food poisoning. Not suitable for all kinds of dog breeds.,Negative,0,train
+test_281,test,"Bajaj is known for its reliability, its evolution in services as well as its indigenous technological upgradation. It has for decades been a symbol of India's prowess in the automobile field.",Positive,1,train
+test_282,test,Mostly on time despite heavy traffic.,Positive,1,val
+test_283,test,It's an experimental dark fable immersed in realism and surrealism. And it's this aspect that makes this such a unique film.,Positive,1,train
+test_284,test,"This might have been an interesting storyline if anyone with a faint clue how to write a script had got their hands on it. There are many baffling things about this movie, but it is staggering just how often everybody takes off their PPE to head into danger.",Negative,0,train
+test_285,test,A truly musical movie in all sence! vocals by Shankar Mahadevan and Mahesh Kale will make your heart melt in seconds and performance of Subodh bhave is just magical.,Positive,1,train
+test_286,test,"The audiobook seems to be interesting at first but as we continue to listen, the pitch and even the sound quality deteriorates",Negative,0,train
+test_287,test,"The developers should focus on fixing the basics like lag issues rather than adding maps, modes, seasons etc and making the game more heavy.",Negative,0,val
+test_288,test,The choli fabric is polyester even though the tag says cotton.,Negative,0,train
+test_289,test,"Has all kinds of connectivity like Bluetooth, USB, and even HDMI for video output. The speakers are also connected through Bluetooth and can be carried outside the car also when needed.",Positive,1,test
+test_290,test,"Not for parents who are averse to war stories. I loved the title of this book and bought it for my 7 year old daughter, but stopped after reading two chapters which were featuring war heroes as role models",Negative,0,train
+test_291,test,"Cpmes with 100 W speakers and Bluetooth connectivity whose output is optimum for home-usage. May it be a party or any gathering, the speakers cover the space with good sound vibes.",Positive,1,val
+test_292,test,"This is the worst book ever. You should not waste your 30 rupees, the cover page is intresting but the stories are too short.",Negative,0,train
+test_293,test,DO NOT visit this cinema. It has worsened over the years. Horrible experience!,Negative,0,train
+test_294,test,The sweater is difficult to wash and care for. there is a lot of piling in just one use and I need to send it for dry-cleaning every time it gets dirty.,Negative,0,test
+test_295,test,"It has swings for infants & for children. It has slopes, see saw, merry go round, sand, grass, benches & few more things for entertainment of children. Overall AMAZING rides and attractions.",Positive,1,train
+test_296,test,This is a great place for sharing information with other people.I often read it as it covers all issues of my interest and articles are easy-written so that you can process information quickly.,Positive,1,train
+test_297,test,"I am amazed with crystal-clear audio and video calls. A group video call with up to 20 people is a cherry on top to see your loved ones, all at once",Positive,1,test
+test_298,test,Piesome is producing wider table fans for home usage. But the size of the fan won't fit in small houses.,Negative,0,train
+test_299,test,"If you watch a trailer, it looks like a fairy tale, but it's only after watching a movie you get to know that its actually not. it was so innpropiote to my child.",Negative,0,train
+test_300,test,Feels like singers were shouting and screaming at each other like barking dogs!,Negative,0,train
+test_301,test,"The body wash effectively cleanses the skin of all the dirt, dust, oil and grime and leaves it feeling fresh, soft and smooth!",Positive,1,test
+test_302,test,"When you are depicting an epidemic, that to like ebola, such loose visuals does not leave an impact nor do they look realistic.",Negative,0,val
+test_303,test,Pockets are small and not segregated as per the camera accessories,Negative,0,train
+test_304,test,"keys and drum pads are easy to play and they also respond well to dynamics while playing, the drum pads are easy to adjust.",Positive,1,val
+test_305,test,My baby loves this shampoo. Her eyes don't sting at all.,Positive,1,test
+test_306,test,The claims made in the advertisements are so misleading. It stings the eyes even though it says 'no tears'.,Negative,0,train
+test_307,test,It smells very bad.,Negative,0,train
+test_308,test,The support I got from their team stunned me. I could easily turn my site into store and start selling my own designed products in just a week. Just Amazed with the traffic I am getting.,Positive,1,train
+test_309,test,Neck is be too thin for traditionalists,Negative,0,train
+test_310,test,It helps support high growth rate during the first growth phase in giant breed puppies and helps avoid excess weight gain. It also supports puppy's natural defence.,Positive,1,train
+test_311,test,The brand is known for classy and elegant designs that add more life to your interiors. The material used is of the finest quality so it's not just good-looking but also durable; a very good investment for working professionals.,Positive,1,test
+test_312,test,The Girl in Room' is a great read and highly suggested. Very excited throughout the read and best experience on perfomance due to excellent acting skills of the narrator.,Positive,1,train
+test_313,test,"These comes with 2.0 ton capacity maximum. It needs more number of ACs for the larger area, which is less cost-efficient.",Negative,0,train
+test_314,test,Interesting characters of minions and Gru actually going back to Villainy with his Twin Brother which he Never knew he had. Just an amazing experience.,Positive,1,val
+test_315,test,"It's the narration that kills the entire story. Unfortunately, the narrator uses exactly the same pitch throughout and it's impossible to really get involved in the story.",Negative,0,val
+test_316,test,"The music is amazing, versatile and fresh! Pritam’s churned out some great tunes with this one and Amitabh Bhattacharya’s lyrics are soul stirring.",Positive,1,train
+test_317,test,It controls odour for at least four hours. I have been using it for the past one year and I am satisfied with its fragrance and lasting time.,Positive,1,train
+test_318,test,"It's the actual stories that are a problem, involving death and animals attacking each other. Not the best way to teach morals. I had to keep aside 7 of these 20 books, as I thought my 2 year old is not ready for such extreme examples.",Negative,0,train
+test_319,test,"More creativity and imagination went into this film and a pretty great singer too! Not forgetting ,it's funny too and Hearts Warming and Heart Wrenching at times.",Positive,1,train
+test_320,test,Removes the tar and freshens the breath. The addition of bone meal eases dental hygiene,Positive,1,test
+test_321,test,Platforms are not very clean,Negative,0,train
+test_322,test,"Annoying app. Whenever I try to use video calling, the app lags or the screen gets frozen.",Negative,0,train
+test_323,test,Keeps the skin hydrated for a long time and get readly absorbed into the skin,Positive,1,test
+test_324,test,Voltas central AC that comes with a combined evaporator is more energy efficient as it uses a single unit for both cooling and heating processes.,Positive,1,train
+test_325,test,I bought this book because of the ratings and I was extremely disappointed! There weren't enough pictures for children to look at while the story was being read.,Negative,0,val
+test_326,test,"Recently, many customers who bought Cosco rackets are complaining about the lack of flexible shaft.",Negative,0,test
+test_327,test,Utterly rubbish movie. They have shown Indian army in bad light through stroy and through out the movie sympathy has been shown towards militants via male actor.,Negative,0,test
+test_328,test,Several characters have made 'The Storyteller' audiobook a horrible nightmare. It is so confusing and boring that I did not listen it after a short period.,Negative,0,test
+test_329,test,"Most of the place is infested with dog hairs including the common space sofas and tables even to the point of having to eat in the dorm as the dogs (three in number) always tend to follow the food; the place is very much inside the bushes where you have to carry up your luggage all the way up the stairs as well. Also, the price of the food is a bit on the higher side just like any other cafe in the old Manali.",Negative,0,train
+test_330,test,"Not compatible with mobile phones and cameras with heavier lens, only 3 level locking and no level indicator.",Negative,0,train
+test_331,test,"It is the best and one of free trending app used for banner, flyer and video editing with whole lot of templetes and illustrations",Positive,1,test
+test_332,test,"Hindware's window air cooler is sleek in design and saves lot of space. For a room which is so crowded with hangings like mine, it's like a boon.",Positive,1,train
+test_333,test,"I am not sure why this concealer has such a dry and cakey consistency. If you have a dry skin type,DO NOT EVEN BOTHER TO THINK ABOUT BUYING IT!!!.",Negative,0,train
+test_334,test,"Polymer (Acrylic + Plastic) material based build, not long lasting.",Negative,0,train
+test_335,test,Protects from dust as it fits tightly on the camera lens,Positive,1,train
+test_336,test,I was apprehensive about ordering online but the lehenga-choli set looks gorgeous and the net quality is AMAZING!!.,Positive,1,train
+test_337,test,"The claim of this roll-on of cell regenration awaits to be seen as I have not noticed any remarkable difference after using it. Though it is fresh and lasts for quite some time, there is no change in my under arm skin tone.",Negative,0,train
+test_338,test,"Genuine quality and it is rechargeable, 29900 mAh, long lasting, battery supports almost all models .",Positive,1,train
+test_339,test,It's beautifully illustrated and colourful with really nice and short stories that are classic Panchatantra. Morals are given at end of all stories. Definitely go for it.,Positive,1,train
+test_340,test,"The movie is a synchronized melancholy of life if you see it from the point of Lonliness. There's Love, spacetravel experience, adventure, humanity, life and death, and an wonderful screenplay that makes the audience to watch the movie again and again to feel the melancholy of life.",Positive,1,train
+test_341,test,"67 mm thread size, green coating and optical glass is of high quality .",Positive,1,train
+test_342,test,"Since this is paraben free, alcohol free and aluminium free, I prefer to use it on a daily basis. It also has a nice natural smell that lasts reasonably longer.",Positive,1,train
+test_343,test,Platforms and coaches are always clean,Positive,1,test
+test_344,test,Its water resistance is very poor.,Negative,0,train
+test_345,test,It contains tetrasodium pyrophosphate which is highly toxic to dogs.,Negative,0,train
+test_346,test,"The unscented quality is the best in this product, especially for the new moms with their heightened sense of smell. Highly recommend it.",Positive,1,test
+test_347,test,Condenser mic makes it unsuitable in areas that have a lot of natural sounds,Negative,0,test
+test_348,test,Perhaps the most affordable as they have the biggest fleet.,Positive,1,val
+test_349,test,16 illustrations for little artists with bold thick outlines. This colouring book could not have been better.,Positive,1,train
+test_350,test,"Ibell's table fans are lightweight and compact, but the motor power is very high. Though it is easy to carry, the fan carries itself when switched on at high speed.",Negative,0,test
+test_351,test,I am doubtful if I have received a genuine product. The consistency changes to a very light shade on applying. Seems like there are duplicate copies available for this brand now.,Negative,0,train
+test_352,test,"It does not rust or tangle the pets hair, always clips neatly and is highly durable.",Positive,1,train
+test_353,test,The app does not show many good shows when we search them and they are not displayed in home screen. You get to know about some of the audiobook through advertisement.,Negative,0,val
+test_354,test,I highly appreciate the quality and they are lightweight and has a flexible shaft.,Positive,1,test
+test_355,test,"Disappointed, Senseless stories with no colouful pictures in the book which can make it interesting to read.",Negative,0,train
+test_356,test,"soundbar's Bluetooth connectivity is a little poor and doesn't support many devices simultaneously. Since it doesn't have a wire connection also, sometimes it's more relaxing to not listen to that.",Negative,0,test
+test_357,test,the air cooler is set with a powerful blower. With its sleek design it's a very good cooling experience I should say.,Positive,1,train
+test_358,test,The makers have failed to give unpredictable twist. It's so predictable that one can get an idea of it before the halfway mark.,Negative,0,train
+test_359,test,"It contains heavy metals including arsenic, lead, mercury, and cadmium, as well as pesticides, acrylamide, and BPA. These contaminates can allegedly build up in an animal's body and cause toxicity, leading to adverse health conditions.",Negative,0,train
+test_360,test,"This one crushes the viewer down into the dust while screaming its message into their face. So, unless you enjoy stupid jokes, children in despair and nauseating songs, don't waste any money on this soulless, emotionally disturbing piece of filth.",Negative,0,train
+test_361,test,"This equipped with dust filters now, which check the tiny dust particles also from entering the house or room. Finally, we can sleep without the fear of pollution inside homes.",Positive,1,train
+test_362,test,The food is awesome and good to enjoy candle light dinner with superb music.,Positive,1,val
+test_363,test,"2-in-1 Dual head start with 9 teeth side for stubborn mats and tangles.No scratch rounded outside teeth gently massage the pet skin. Meanwhile, teeth innier side is sharp enough to smoothly cut through the toughest mats, tangels and knots.This mat comb is made of stainless steel that prevents from rusting and non-toxic mateial, and the strong handle will last for long time.",Positive,1,train
+test_364,test,"It is supposed to be a good brand with quality products but the silicon used in it is not durable at all. With just one wash, the bottle nipples got discolored and I can see a crack appearing. I WANT MY MONEY BACK!!",Negative,0,test
+test_365,test,"Diffuser is partially covered/non-uniform , due to lack of inner diffuser.",Negative,0,train
+test_366,test,"Bought this air cooler recently.It is compact and portable. But I don't know which motor they fitted into it, it makes a noise like a flour mill.",Negative,0,train
+test_367,test,"It is a moral story book which will teach you that, we are capable of finding joy even in the minimal things. What a pleasant read this one is !! The story is a reminder to all the childhood days we used to spent playing and getting to know some really interesting things , cooking and creating a hazard in the kitchen.",Positive,1,train
+test_368,test,This film is an epic in the truest sense and a visual treat to watch. stunning backdrops and visuals are cherry on top.,Positive,1,train
+test_369,test,"It contains corn, corn is generally a filler and does not provide much nutritional value at all and causes allergies and other skin issues.",Negative,0,train
+test_370,test,"the new sine/square wave supports most the regular household devices such as tube TVs, lights, fans, etc. Thank god, some reviews were misleading and I got tensed after ordering this inverter.",Positive,1,train
+test_371,test,"Our India's badminton pride deserved much better script, screenplay, good actors to replicate her life. Parineeti is nowhere close to our legend & is miserable in portraying Saina.",Negative,0,train
+test_372,test,"Well-maintained rooms, located at prime location. with free parking. The in-house restaurant's food is tasty and of good quality, along with the rooms well-equipped with all modern amenities such as AC, fridge, TV etc.",Positive,1,train
+test_373,test,"The 100 ml bottle comes at a price of 4000/- So, it is not for casual or daily use. Its too expensive to be used daily",Negative,0,train
+test_374,test,Comes with full Bluetooth connectivity. This avoids the messy connections of wires etc. and keeps the audio output seamless.,Positive,1,val
+test_375,test,"Cardioid polar pattern helps to pick up sounds from the front of the mic, and the sound isolation is good",Positive,1,train
+test_376,test,"Kenstar window air cooler is gentle and humidity-controlled. It is a good choice for kids' rooms, where more cold air causes cold and cough.",Positive,1,val
+test_377,test,The feature of detachable cushions is superb. I don't have to worry at all when my child drops or spills something. I can just remove and wash them.,Positive,1,train
+test_378,test,Maida-made cookies that add to bad cholesterol,Negative,0,train
+test_379,test,"who says it was horror movie, I was literally laughing while watching the movie. Such a low quality work through camera.",Negative,0,test
+test_380,test,There are no level indicators and not suitable as cellphone holder.,Negative,0,train
+test_381,test,The stories are short and boring. There isn't any variety in the stories and no cartoon characters as well.,Negative,0,val
+test_382,test,"Sometimes, the controls just stop responding in the middle of a race, especially the throttle. This issue has caused me to lose many races.",Negative,0,test
+test_383,test,The best thing is that this app allows Offline listening: download books and listen in the app offline.,Positive,1,train
+test_384,test,"Boat's new soundbar has several sound modes, such as surround sound expansion, game mode, smart mode, DTS Virtual X as well as a standard mode. It customizes the sound output for every different need.",Positive,1,train
+test_385,test,The powder form is easy to carry and convenient to make anywhere.,Positive,1,train
+test_386,test,Genus has kept the price of THIS inverters a little higher than other brands of the same tech in the market. It claims better quality but still affordability matters.,Negative,0,train
+test_387,test,the personal air cooler doesn't have a humidity controller which is the latest trend in coolers. It feels like a big fan because of that.,Negative,0,train
+test_388,test,There is no scope for any self- service and the cuisines are much limited to choose from,Negative,0,val
+test_389,test,"Good sound, lots of possibilities, and the pressure sensitive keys give the playing a lot more nuance.",Positive,1,test
+test_390,test,"The air-conditioning does not work properly: in a room for six persons there's only one air-conditioner and one fan available, not enough to even keep the room ventilated. The wifi signal is also very unsatisfactory.",Negative,0,train
+test_391,test,It works on same technology on which XPS 10 works,Positive,1,train
+test_392,test,"Even though the magical image of HP is creative, in this art work, it's so inconsistent and so confusing in how it works that it's frustrating to watch rather than awe-inspiring.",Negative,0,train
+test_393,test,Mostly well maintained,Positive,1,train
+test_394,test,Editing features give for both video and images lack the immpression. It hampers the overall quality and representations.,Negative,0,val
+test_395,test,"Totally disappointed with the product performance, even the battery charger is not working.",Negative,0,train
+test_396,test,"After feeding this supplement, they suffer from digestion problems. They went through diarrhoea.",Negative,0,train
+test_397,test,Reddit allows for open discussion and you can take benifit of that to have opinions on your ideas and thoughts. In addition to that you can easily find the ideas to try simply using the search.,Positive,1,train
+test_398,test,"It contains all the nutrients, is highly palatable and easily digestible. It supports a healthy immune system. It contains all the essential vitamins, minerals and antioxidants which boosts pet's health and vitality.",Positive,1,train
+test_399,test,The motor which is designed for better efficiency ends up with forced breathing. The 1HP motor is not helping,Negative,0,test
+test_400,test,It's a bit tidious to find the audience for your content. To do so you will be requiring to modulate the content according to SEO.,Negative,0,train
+test_401,test,Alot limited content to watch looking at the subscription cost.,Negative,0,train
+test_402,test,There are not many flavors to choose from. Just a few basic ones.,Negative,0,test
+test_403,test,"Victor rackets are too expensive and less durable. So, it is not popular among the middle-class byuers.",Negative,0,val
+test_404,test,Expensive...and very few pages. It's worth if we can get three books for this price. Can actually take a print at home which would cost less.,Negative,0,train
+test_405,test,"They have had the same design and almost the same price for the past 6-7 decades which is wonderful & nostalgic. It's an all-time favourite! These pens last pretty long, and the nib gives you what your school teacher would call 'a good and neat handwriting.' Can't ever stop using them.",Positive,1,train
+test_406,test,perfect for tiny spaces and congested interiors. It's small and portable and I can shift it and keep it wherever I feel comfortable.,Positive,1,train
+test_407,test,Beautiful designs and fast colors even though it's pure cotton. Have ordered three already.,Positive,1,train
+test_408,test,"Evaporator is designed to effectively transfer heat at a high rate with minimum surface area. It is cost-effective for installation, operations, and maintenance.",Positive,1,train
+test_409,test,"the Split AC provides a PM2.5 filter for air purification.PM2. 5 filters are known to achieve up to 90% effectiveness in the filtration of smog elements in the sub-micron range, the smallest of the small particles flying around in the air.",Positive,1,train
+test_410,test,Now offers a Dust filter in its new Window AC as a new feature. It checks the micro-particles from entering the room more efficiently.,Positive,1,train
+test_411,test,"A peaceful cafe with a lovely rustic ambience, wiith proper justice meted out to the deep and soulful style Rabindrasangeet of the legendary Debabrata Biswas (the cafe being the former resident of the singer). The food is tasty and quite diverse in variety, with the beverages available offerring quite a commendable variety and good options to snack on.",Positive,1,train
+test_412,test,Soundboard has Color Touch Interface technology and 6-speaker system with 550 instrument tones and effects.,Positive,1,train
+test_413,test,"This is worst product ...more than worst. Even with lots of effort, you can't handle it properly.",Negative,0,train
+test_414,test,Recharging issues as it stops charging at times.,Negative,0,train
+test_415,test,"Its free of paraben, aluminium and preservatives. Also, it is anti-bacterial and no gas deodorant which works well on sensitive skin too. Lasts longer too!!",Positive,1,train
+test_416,test,The ACs often don't function properly making a night stay during summer almost unbearable. The rooms (which are very small at this price point) not well-cleaned.,Negative,0,train
+test_417,test,"Dulcet FTW!! now equipped with voice control with the latest AI. It is a welcome feature especially for a car stereo, which keeps the hands free while driving.",Positive,1,test
+test_418,test,Packaging of the product needs to be improved,Negative,0,val
+test_419,test,"It is too delicate and the reflective strap comes off within a few days. The buckle on this thing is useless, It opens when the puppy pulls hard.",Negative,0,train
+test_420,test,The ingredients list is TOO LONG!!!. Not really sure if its herbal.,Negative,0,train
+test_421,test,Lloyd Inverter AC has an Alluminium coil with corrosion protection. It lessens the cost of the product as well as the durability.,Positive,1,train
+test_422,test,It is the cheapest and students love this for its low cost.,Positive,1,train
+test_423,test,Why Alia! she looks just not apt for this role. And story is just not historically correct and twisted in the name of liberty.,Negative,0,train
+test_424,test,"With voice and video calls, messages, and a limitless variety of exciting stickers, they make me able to express myself in ways that I would have never thought possible.",Positive,1,test
+test_425,test,Only normal glass is used as a material and no coating is applied.,Negative,0,test
+test_426,test,The cap is a bit loose so the dust particles are seen on the lens.,Negative,0,train
+test_427,test,"The hosts are warm and kind, and the homecooked homely food was delicious. The ambience of each and evry room is great with sunrise view from almost all of them, with calm and serenity added to it being located 1Km away from the hustle-bustle of the main city; the parking lot also has a lot of space.",Positive,1,train
+test_428,test,"It has purely manual controls and forces you to learn exposure theory, which one may not be comfortable with.",Negative,0,train
+test_429,test,"Delivered perfectly by Amazon. Piesome's table fans are broad-based fans with good blade length. Because of more sweep size, the efficiency of the fan matches with any ceiling fan.",Positive,1,train
+test_430,test,It doesn't assemble quickly.,Negative,0,test
+test_431,test,They are poking their nose into your private space just by saying it's secure but not providing end-to-end encryption. Planning to bin it soon if they don't fix up.,Negative,0,train
+test_432,test,This the worst movie I have seen in years!!! Horrible acting and a nonexistent story full of religious dribble!,Negative,0,train
+test_433,test,"cooler is fitted with good caster wheels. Though the cooler looks huge, the wheels make it easy to move around.",Positive,1,train
+test_434,test,"They have produced some really popular web series that are must watch for every one. Bose dead or alive, Test case just to name couple of.",Positive,1,train
+test_435,test,"The muffins, pastries and patties especially the cheesecake are very good. There is a variety of cakes and pastries to choose from along with the imported chocolates that add a cherry on the top.",Positive,1,train
+test_436,test,"The quantity mentioned on the tube does not match the actual quantity. Upon using it, I realised that it finishes off quite early than the expected time period.",Negative,0,train
+test_437,test,Drivers are almost always trustworthy and safe to travel with.,Positive,1,train
+test_438,test,It is BIS certified and claims to be safe.,Positive,1,train
+test_439,test,"It is a half chain half choker collar and the choke is made of high-quality stainless steel, durable nylon.",Positive,1,train
+test_440,test,"It has no connection to previous onces. The way spooky incidents captured, does not give you the spine chilling experience.",Negative,0,train
+test_441,test,Cleanliness is not up to the mark.,Negative,0,val
+test_442,test,voice command supports only Alexa and Google. I have tried with my iPhone hundred times but fails to recognize.,Negative,0,train
+test_443,test,"Its great for those with sensitive skin like mine. It's antipersipirant and on humid days, I don't smell all sweaty thanks to this !!!",Positive,1,train
+test_444,test,"It connects as soon as you open the case,touch control is smooth.",Positive,1,train
+test_445,test,"As the frequency is very less, you do not save time here.",Negative,0,train
+test_446,test,If it wasnt for the Beatals and songs in the movie people would be calling this movie an eyesore.,Negative,0,test
+test_447,test,The strap starts to fray near the handle.,Negative,0,train
+test_448,test,Rates are high ascompared to local or bus service,Negative,0,train
+test_449,test,"Has a maximum capacity of only 2.5 tons, which is ideal for any suite of areas ranging from 300 to 500 sq. ft. Hence more hotels buy this for sure.",Positive,1,train
+test_450,test,"Inspite of the quantity per packet, Monaco biscuits are not filling but a very light snack.",Negative,0,train
+test_451,test,Quality of padding is very cheap.,Negative,0,train
+test_452,test,"Bought this recently and my enginner brain didn't fail to notice the Alloy Coils, which is basically an alloy of copper. It gives higher durability to coil along with better performance.",Positive,1,test
+test_453,test,"900 mAh, rechargeable, battery last only 30 to 40 mins.",Negative,0,test
+test_454,test,"As the describe it's the best app to create personalised playlists and Mixes made just for you, built around your favourite types of music.",Positive,1,train
+test_455,test,The price is a little bit on the higher side. The quality of the food served is not up to the mark on some occasions.,Negative,0,train
+test_456,test,The material used in stiching is of good quality and waterproof.,Positive,1,val
+test_457,test,Toxic ingredients like potassium sorbate and baking soda are present. Not good smell and made the dog vomit,Negative,0,train
+test_458,test,The caster wheels of the cooler are so fragile for their heavyweight! My cooler wheels got broken without even moving once.,Negative,0,train
+test_459,test,"Looking at the book, no one will ever buy the book at the first sight. The cover design is not at all cute and attractive as it should be.",Negative,0,train
+test_460,test,Humorous Movie and Hilarious single liners! The only roller coaster that will keep you laughing throughout the ride.,Positive,1,train
+test_461,test,"Boat home theater system is an indigenous brand of speakers. So it doesn't have Dolby output, which is counter to the trends of today.",Negative,0,test
+test_462,test,It is not waterproof and the material is very poor and apparently not very breathable. The inside is not washable and it holds smells very strongly.,Negative,0,train
+test_463,test,"Compact cube shaped foldable structure, built- in Waterproof HD LEDs with Diffuser Lens for best results.",Positive,1,val
+test_464,test,"Dolly Parton, one of the authors of ""Run, Rose, Run' has narrated the main character and who better than the author to narrate it :) Acing -Bang on!, Modulation - Excellent, Voice - Just perfect, a must listen audiobook !!",Positive,1,train
+test_465,test,"For the model Suzuki Gixxer, the performance of the bike was slightly on the lower side with the 155cc engine, less average & mileage both in the city and on the highway by some buyers.",Negative,0,val
+test_466,test,Fortune Chakki fresh atta is a good quality chakki atta and makes the softest rotis. It will never let you down.,Positive,1,train
+test_467,test,Comes with an aluminium coil which is less efficient compared to other materials.,Negative,0,train
+test_468,test,air cooler's tank is just 8 Ltr capacity. It keeps drying up on these summer days very often and it's one person's job to monitor it always.,Negative,0,train
+test_469,test,The length of the Modi pedestal fan is just 2.5 ft. which is less for a pedestal fan. The lack of height hinders the efficiency of an otherwise good product.,Negative,0,train
+test_470,test,Does not filter harmful lighting,Negative,0,train
+test_471,test,The place is quite an old one with all the ACs and fans not working properly at times. The price for AC rooms is a bit on the higher side for the middle class people to be called affordable.,Negative,0,train
+test_472,test,It has longer setting time providing large time window to work the mortar in masonry constructions or plastering work.,Positive,1,train
+test_473,test,Least time for check in at any airport as they have many counters for this.,Positive,1,train
+test_474,test,I have been using Lakme products for a very long time and this one is the newest entrant in my make-up kit which lives uo to its brand image. It blends perfectly well with my skin covering the dark circles and giving it a radiant and even tone.,Positive,1,train
+test_475,test,No space for shoes. Have to add in the common slot. No cushioned hip or waist support.,Negative,0,train
+test_476,test,The way mordern music is fused with sufi flavour is just pathetic. Does not have the originality.,Negative,0,train
+test_477,test,"After the onslaught of COVID, the price has really shot-up, almost 30% more, so that's a deal breaker.",Negative,0,train
+test_478,test,It's a nice story and narration to hear with change of modulation for the characters as well,Positive,1,train
+test_479,test,It keeps me fresh and active throughout a busy day. The spicy fragrance of this deo actually does its job well. Even lasts till the end of the day!!,Positive,1,test
+test_480,test,The product does not work for itching and dry skin of pet.,Negative,0,train
+test_481,test,Strong dog belt made out of nylon with soft finishing which keeps the dog at ease. The dog collar with a leash is adjustable and can easily fit all dogs.,Positive,1,train
+test_482,test,You can design your blog the way you want and you can place the ads of affiliate marketing on your blog page. So it's more of like turning your blogging site into a store and earning extra cents above monetising benifits.,Positive,1,train
+test_483,test,Aluminium body with rubber legs and is suitable for cellphone and other types of camera devices.,Positive,1,train
+test_484,test,"The sound master multimedia player is still a wire-connecting player, without a USB. I can't imagine carrying so many wires in a time of such advanced connecting features.",Negative,0,train
+test_485,test,Not sure why infants would need whey protein and given that it has whey protein how can it be easy to digest. The claims these companies make are QUESTIONABLE!!. I would recommend giving homemade food if you can.,Negative,0,val
+test_486,test,"What an unheard real story! performaces of Alia Bhat, Ajay Devgan, Shantani Maheshwari are just remarkable.",Positive,1,val
+test_487,test,"Zero cartoon characters. Disney characters are loved by children, but this comic book donot have any interesting cartoon characters.",Negative,0,test
+test_488,test,"They are easy to use, adjustable for the best fit and machine washable.",Positive,1,val
+test_489,test,This pedestal fans are provided with lengthy blades and a powerful motor. Hence the air delivery speed is unmatchable with any other brand.,Positive,1,train
+test_490,test,The classic pate meal is made with high-quality animal proteins plus vitamins and minerals to support a strong immune system in older dogs This complete and balanced wholesome moist dog food is formulated with omega fatty acids to promote healthy skin and a soft coat in aging dogs.,Positive,1,train
+test_491,test,Absolutely beutiful place to watch movies and after snacks.It gives vibs of old nostalgia kingdom architecture.,Positive,1,train
+test_492,test,The batteries that are provided with the package are of poor quality. It didn't last long and had to be replaced very soon.,Negative,0,train
+test_493,test,Very neat place to watch movies with friends and family. Suitable option for bachelors. Ambience is fine as any cinema hall around.,Positive,1,train
+test_494,test,"Though you cn schedule the post, direct upload feature is not availabe making it a bit time consuming for gigs.",Negative,0,train
+test_495,test,"They have a big customer base throughout India, are very affordable, and into extensive R&D. They are also into production of environment-friendly vehicles and have a developing dealership around the world.",Positive,1,train
+test_496,test,Can't see the photos I select in the photos section of my friends' timeline. It's just shown as black or blank even after confirming that it is shared publicly.,Negative,0,val
+test_497,test,"Useless use of dark crimson overlays that's horribly done, some Blair witch style camera work for showing one poor soul's chase sequence.",Negative,0,train
+test_498,test,No where close to MAVIS 350. Too fast and need to tamper the Nylon to make it reasonable to play indoor for advanced players.,Negative,0,train
+test_499,test,A very budget friendly chair for middle-income working class with the easiest assembling techniques. Is very sturdy yet light-weighted.,Positive,1,train
+test_500,test,"The dorms are very congested; they turn off the AC after 10am in the morning and again turns it back on only at 8pm, that is you have to suffer from the heat (if you are visiting in the sweltering Kolkata summer) outside those hours. Also, the breakfast provided is not enough and fulfilling.",Negative,0,train
+test_501,test,It pulls and tugs on knots. Pulls a lot on my dog's hair.,Negative,0,train
+test_502,test,Loved it!! I had seen 'The Prince and the Pauper' based movie but had never read the story. Book far exceeds the movie due the perfect pitch and modulation by the narrator.,Positive,1,train
+test_503,test,It does not reduce hard background shadows.,Negative,0,train
+test_504,test,Spotify is the best application to listen the duet narration audiobooks. Not only it has a wide range of books but the quality of the narration is bang on! The pitch of all the narrators is just perfect which conveys the exact feelings of the character.,Positive,1,train
+test_505,test,They are fuel efficient and give good mileage and are symbolic of Indian domestic industrial strength,Positive,1,train
+test_506,test,"It's 20 rs books from roadside!!. Instead buy from local street. Overpriced, not well describe stories. Only 4-5 pages in each book.",Negative,0,train
+test_507,test,The grip is seriously bad and starts tearing fragments by fragments.,Negative,0,test
+test_508,test,The bed is easy to assemble and very comfortable. It is washable and the Mesh fabric allows for great ventilation.,Positive,1,test
+test_509,test,"The ceiling fans generally lengthy blades. In the smaller areas like closed rooms, the noise is more than the air.",Negative,0,train
+test_510,test,Voltas Inverter AC's HD filter quality is barely appropriate. Hence it looks like rather a publicity stunt in the time of pandemic than efficient protection mechanism.,Negative,0,val
+test_511,test,"Why do need to give everything in one carrier? It's super annoying with so many attachments and honestly, 10-in-1 seems to be JUST A GIMMICK to attract new parents. The functionality is questionable.",Negative,0,train
+test_512,test,The best feature it has is that you can tag specific topics to attract attention from targeted audiences or like minded people.,Positive,1,train
+test_513,test,"Very impressive gift one can give to a reader pal. Impressive print, picture quality and information. Any kid who loves and enjoys reading will make these books as his/ her favorite books.",Positive,1,train
+test_514,test,Not an ideal moisturising lotion for winter or colder climate,Negative,0,train
+test_515,test,Godrej provides 2 years warranty on its condenser in central AC which is the maximum in the market and hence increases the trust factor.,Positive,1,test
+test_516,test,The voice-over was very good and was easy to follow and engaging given the limitation of the story itself.,Positive,1,train
+test_517,test,It consumes a big space on RAM and ROM of your device as it asks to download the stickers you want to use and stores them everyday in the form of backup.,Negative,0,train
+test_518,test,"There are issues to get at the right spot where we are listening, if we go online after being offline for a while",Negative,0,test
+test_519,test,An excellent comic book for kids to read with lot of pictures.,Positive,1,train
+test_520,test,"Wasted my 1.5 hrs or so and No action, No adventure, No Fights.",Negative,0,val
+test_521,test,Raya did not earn or deserve the position of a Disney Princess because the fact is that she has no character. There is no way to relate to her and she went through no character development as she should have according to the plot.,Negative,0,test
+test_522,test,Adrenaline rush! Amazingly read by Swetanshu Bora. Pitch and the tone while reading was very appropriate to the story.,Positive,1,train
+test_523,test,Polarizer is multicoated but does not deepen the intensity of blue skies,Negative,0,train
+test_524,test,"The ceiling fan of Orbit is coming with smart control. Ah! finally, I can control the fan from my bed.",Positive,1,train
+test_525,test,"Probably the best sleeper coach in the state. Very well maintained, too.",Positive,1,train
+test_526,test,"Microsoft always has this habit of giving it out just for its's sake. Voice cracking, video lagging, hanging in the interface are just few issues to name, there's a never ending list.",Negative,0,train
+test_527,test,"It is made of lightweight but durable EVA , waterproof, rust - resistant, less concussion, insulation and soundproof, environmentally friendly. hardcover outer shell and cosy comfort inner.",Positive,1,train
+test_528,test,6-year warranty is short compared to other brands,Negative,0,train
+test_529,test,The soap is so naturally moisturizing. I don't feel the need to use a lotion at all after using it.,Positive,1,train
+test_530,test,The name itself brings magic. I also love the pictures that they use for the stories. The stories are mostly on a jungle called 'Champakwan' and the animals in it but all the stories are still interesting.,Positive,1,train
+test_531,test,Voltas has changed its coils from Copper to Alloys of Copper. It is further reducing the energy consumption of the AC and is more efficient in cooling.,Positive,1,test
+test_532,test,This walker is super easy to fold and is very compact. I recommend this to all the new moms who are carrying a thousand things at once. Thank me later.,Positive,1,train
+test_533,test,"After use, hair becomes smoother and softer. The shampoo is plant-based, with no artificial preservatives or harmful ingredients.",Positive,1,train
+test_534,test,The End of the Affair' is a masterpiece that gets the reading it deserves! Colin Firth's voice and tone magnificently captures the grief and hate and melancholy and love.,Positive,1,val
+test_535,test,soundbar comes with only standard and gaming modes. It is not advisable for something more subtle like classical or jazz music.,Negative,0,train
+test_536,test,Symphony personal air cooler is now fitted with a humidity controller. It keeps changing the humidity level according to the weather outside.,Positive,1,train
+test_537,test,"Its a inclusive home for everyone, be it a global community and or just handful of your friends. You can easily host discussion, listen over what others have to say on the topic of interest or you can just stay close and have fun over text, voice, and video chat.",Positive,1,train
+test_538,test,These tablets are very beneficial for strong bones and teeth of dogs.,Positive,1,train
+test_539,test,"The speaker has Aux, USB, and Bluetooth connectivity. But it doesn't have HDMI and wifi connectivity, which is a great lack in these hi-tech times.",Negative,0,val
+test_540,test,bridge came off and tuners started fiddling within month or so.,Negative,0,val
+test_541,test,Equipped with intelligent backing-track technology and compatible with music rhythms from Roland’s series.,Positive,1,train
+test_542,test,"In efforts to make you feel your spine freeze, and give spooky twists, they have lost everything. Waste of time.",Negative,0,train
+test_543,test,"Classmate has always been one of my favourite brands. It offers the best grip for everyday use, and unlike most gel pends, it glides so smooth, I could write all day with it.",Positive,1,train
+test_544,test,Zebronics home theater system is now equipped with a voice control system. It's good to see native models upgrading to novel technologies like AI.,Positive,1,val
+test_545,test,"Lacks a complete list of all ingredients, doesn't lather much",Negative,0,train
+test_546,test,This is weighty camera which makes it not at all a good option for travel.,Negative,0,train
+test_547,test,I have used two sterilizers so far and homed onto a really good one finally. It has a good capacity and can clean up to six bottles and pacifiers too. Even there is an in-built warmer on top. A must-buy.,Positive,1,train
+test_548,test,"It is too thin and too costly for that quality, it doesn't fit the dog, waste of money.",Negative,0,train
+test_549,test,"On insta, sharing images and wtching the stories and videos put up by friends is super data consuming. Even my 2GB plan is insufficient. Also Insta is not that accessible if you don't have enough internet speed.",Negative,0,train
+test_550,test,Truly Wireless Bluetooth in Ear Earbuds with Mic,Positive,1,train
+test_551,test,"Each and every activity you do here, takes a high toll on data consumption. Even Just sharing your thoughts or to have a quick discussion may consume half of the data limit for the day.",Negative,0,train
+test_552,test,"The material used is of low quality, hence not good for professionals.",Negative,0,val
+test_553,test,The quality of subtitles provided are literally below poor. Looks like just google translated. Frustrating it is!,Negative,0,val
+test_554,test,Very safe as drivers are scrutinized by the company.,Positive,1,train
+test_555,test,"There's a huge variety of settings, instruments and options, including built in lessons",Positive,1,train
+test_556,test,User friendly and serves my purpose.,Positive,1,train
+test_557,test,"Complete and balanced and fortified with vitamins and minerals to help dogs of all sizes, especially small breeds, stay healthy. This gourmet dog food is served in convenient trays with easy, peel-away freshness seals. The food really smells good enough for a person to eat. It's so handy too, to take along somewhere.",Positive,1,train
+test_558,test,"This is the perfect fantacy book to calm our little sleepy dragons. An absolute delight - a really exciting adventure, adorable illustrations.",Positive,1,train
+test_559,test,One of the best and most affordable fountain pens. Faber Castell stationery has the best quality and looks one can ask for; their designs are always unique and elegant: suitable for consumers of all ages and professions.,Positive,1,train
+test_560,test,It has many of the popular books available for free. A large audio able content that is available in 5 indian language..,Positive,1,val
+test_561,test,Shakti bhog atta is one of the very few atta brands with no additives.,Positive,1,val
+test_562,test,"Rates are on high side, most of the time the highest on a route.",Negative,0,train
+test_563,test,"The cap protects from the external damage such as water splashes, sun rays, and scratches.",Positive,1,train
+test_564,test,"This movie is absolutely incredible, astonishing, inspirational and breathtaking.",Positive,1,train
+test_565,test,It has become a favorite of mine. It has a very refrehing smell which lasts for at least 5 hours. Highly recommend buying it!!,Positive,1,test
+test_566,test,"The bristles are hard plastic, hence they do not penetrate the fur.",Negative,0,train
+test_567,test,"Gently removes loose hair, eliminates tangles,knots, dander and trapped dirt. This is the perfect dog brush to remove all nasty mats out of your pet's fur.",Positive,1,train
+test_568,test,Li Ning offers robust rackets with affordable price. This has the maximum sale in India.,Positive,1,train
+test_569,test,"What a big toxic place to be in! If your shared content is not liked, then you get bullied in everyway possible just because apparently your content is “shitty” and is a “shitpost”",Negative,0,train
+test_570,test,"Situated in the heart of Shantiniketan, this Santorini-themed resort decorated in soothing and serene blue-and-white colour scheme is a perfect place to stay with friends and family. The nice small swimming pool on the first floor gives an infinity pool vibe.",Positive,1,train
+test_571,test,"The ambience is overall not bad but the lack of AC makes the place very hot often making the eating experience not a very enjoyable one, especially with all the cooking smells coming directly to the customer",Negative,0,train
+test_572,test,Best compatibility is with cannon and nikkon cameras only.,Negative,0,train
+test_573,test,Case built fron ultra high impact co-polymer and good quality foaming from inside and also come with automatic pressure equalization value and a loh hook is present with 100 percent assurance to water resistance.,Positive,1,test
+test_574,test,An ultimately pointless story that sort of flops around like a dead fish not quite aware yet that its dead. This film is disappointing and forgettable.,Negative,0,train
+test_575,test,"Rates are governed by meter, so you can guess before boarding a vehicle",Positive,1,train
+test_576,test,The arcade gameplay is really easy and I forund it not challenging at all.,Negative,0,val
+test_577,test,Aluminium makes it light weight which further maximise hitting power.,Positive,1,val
+test_578,test,"Hygiene and cleanliness sometimes become a concern with the bathrooms and the rooms not being cleaned at regular intervals. Sometimes, in some beds of some rooms bedbugs can give a troubled and uneasy sleep to the lodber.",Negative,0,train
+test_579,test,Interesting use of brainpower. This game challenges the ability to strategically plan ahead.,Positive,1,train
+test_580,test,comfy rating is 1.8/5 hence can not be said comfortable,Negative,0,train
+test_581,test,"whenever you try to play a tv show, it has a hell lot of ads and manytimes shows an error called ""oops something went wrong"". I reported this multiple times even though there is no fixing of the error in the background code.",Negative,0,train
+test_582,test,"The collar is far behind in quality, sturdiness, and durability. It does not have a holder between the buckle and the ring.",Negative,0,train
+test_583,test,"Fiction yet feels so true in today's time. Sagar Arya is damn good at narrating, his acting and voice keeps one connected throughout the story.",Positive,1,test
+test_584,test,"Even though the description says that this book is ideal for 4-9 years, my kid struggled to understand the moral of stories when I read out to him. The language is not so simple.",Negative,0,train
+test_585,test,Using more than the required quantity causes large amount of sweat,Negative,0,test
+test_586,test,It has a very mild scent which will not work for those who sweat heavily. The mild fragrance work only in winter months when you sweat less.,Negative,0,train
+test_587,test,"It was delivered late by the seller itself and the quality at the time of delivery was a disaster!!. Binding of the book was NOT GOOD at all, the pages came out after turning them once.",Negative,0,train
+test_588,test,Tugs at the coat hurting the dog. Blades on this tool are extremely blunt.,Negative,0,train
+test_589,test,"The ""butterfly"" park does not have any butterflies anymo The enclosure is broken or non existent and Its just a dirty garden as of now.",Negative,0,train
+test_590,test,"Blueberry's home theater system is equipped with 2 USB ports, one HDMI, and Bluetooth. The supporting software is also good, hence seamless connectivity.",Positive,1,train
+test_591,test,Every Mother-Son duo can easily relate to characters of Eela and Vivan. Kajol and Riddhi Sen made the justice to the characters.,Positive,1,test
+test_592,test,"The Cakes and pastries are extremely delicious, along with the various chicken, fish and vegetarian preparations (that includes pizzas, rolls, sandwiches, hot dogs, deep fried snacks,etc.) that are always fresh and hygeinic never causing any kind of uneasiness. The service is real quick and the variety never fails to offer the customer a wide range to choose from.",Positive,1,train
+test_593,test,The smell is pathetic and the shampoo causes a lot of hair fall. It won't control ticks and also caused dandruff in many dogs.,Negative,0,train
+test_594,test,"Best compatibility is with cannon, sony, nikkon cameras only and good for only larger size lens.",Negative,0,val
+test_595,test,"The movie was HILARIOUS and had just the right amount of drama, which makes it altogether a perfect movie.",Positive,1,val
+test_596,test,"All high-end features like set neck, trapezoid inlays are give at this price point is insane",Positive,1,val
+test_597,test,"Though Hirani stated that the purpose it to inspire through Sunjay Dutt's story, after watching movie, my perception is that it is made to clear his image.",Negative,0,test
+test_598,test,Easy to use audio and video editing tools and navigate through features. Content Creation just made easy!,Positive,1,train
+test_599,test,"As the name suggests, this concealer really blends well with my skin giving it a very fine and even tone. L'Oreal never dissappoints me with any of its product lines.",Positive,1,train
+test_600,test,"A perfect fantasy book, my kids loved it!! Written specially for bedtime, this story is full of muddy puddles, tropical birds, erupting volcanoes... and one fun-loving little dinosaur.",Positive,1,train
+test_601,test,Dulcet multimedia player comes with the speakers with 5*7 inch speakers. But the problem is they are not coaxial as advertised and the sound won't sync properly.,Negative,0,train
+test_602,test,"Pinterest for Business is your chance to put a different face to your brand. You can create how-to guides, find/offer ideas on how to use products or services, or just find/share a favorite recipe and share your story about it. Because there is an almost limitless amount of variety available on this platform, you can explore different ways to find or market your content than other platforms may allow.",Positive,1,train
+test_603,test,Its very easy to book a ride on Neeta as the site is very user friendly,Positive,1,train
+test_604,test,The window AC capacity is optimum for middle class users with the range of 1.5 to 2.5 tons. It is perfect for small aprtments and homes.,Positive,1,train
+test_605,test,The park seems to have been revamped and as I am seeing this after almost a year the new look and layout is impressive. The benches have been setup to facilitate a medium group conversation with a katta for local gatherings.,Positive,1,train
+test_606,test,Laxmi bhog atta is has additives which aren't good for regular consumption.,Negative,0,train
+test_607,test,It has low friction and is very comfortable for the pets.The nylon material prevents rashes and hair breakage and is completely skin friendly.,Positive,1,train
+test_608,test,A little over priced.,Negative,0,train
+test_609,test,Bought this pedestal fan from anchor. It is provided with 3 blades. Pedestal fans are used normally for big areas and need more blades for far-reaching air delivery.,Negative,0,train
+test_610,test,"Removes loose under coat, untangles mats, dead hair and keeps coat healthy",Positive,1,train
+test_611,test,It's material is thin and stitching little loose.,Negative,0,train
+test_612,test,Its smell is very strong.,Negative,0,test
+test_613,test,Dim lighting in most places and broken pathways. Needs maintenance!,Negative,0,train
+test_614,test,They may not be always useful for long drives. The Honda Shine model was considered good only for daily commutes. But it had a problem of wearing out of the chain sprocket. There was also an issue of high maintenance costs.,Negative,0,test
+test_615,test,Narration is not as expected. Om Swami the author would have been a better narrator. The pronunciation of Sanskrit sholakas and words is not proper.,Negative,0,train
+test_616,test,Comes with 8 creative gels and gel wallet of good quality.,Positive,1,val
+test_617,test,Emits a constant noise sometimes it scares me if any equipment is going to damage.,Negative,0,test
+test_618,test,The owner does not have any activated TV connection. There's only one parking slot available which becomes a headache if there is no space available there for your vehicle.,Negative,0,train
+test_619,test,The grip of the neck belt is not good and it is not durable.,Negative,0,val
+test_620,test,Their promise of 24 hour odour free protection seems to be untrue. The fragrance fades away before the day ends as it is all natural.,Negative,0,test
+test_621,test,Beautifully illustrated fairy tale collection for young readers.,Positive,1,train
+test_622,test,It has a nice floral and lavender scent which is the main reason why I keep buying the Engage drizzle deodorant. It is also one of the most skin friendly deodorants that I have used!!,Positive,1,train
+test_623,test,Small fleas can't be combed off with this.,Negative,0,train
+test_624,test,Our friends in the North' is a solo narrated audiobook. The acting of the reader is so poor that we feel it as a robotic audio. Very disappointing!!,Negative,0,train
+test_625,test,"Though cooler has a big fan, it doesn't have a blower. So though the cooling capacity is good, the air spreads out and seems inefficient.",Negative,0,train
+test_626,test,"In the chair car, need more charging points as everyone carries a cellphone these days and there are only 2 points per compartment.",Negative,0,train
+test_627,test,"This is just a right place to have and find any type of discussion. If you have always been an active part of a forum or community this is your right app, because Journalcy is the evolution of forums in app format.",Positive,1,test
+test_628,test,Every bit of it hits you with amazing childhood memories. Johnny Depp is perfect as Willy Wonka.,Positive,1,train
+test_629,test,Stand has only 3 level locking and also doesn't have steady rubberized legs,Negative,0,test
+test_630,test,The seal of the product was broken on arrival. I would recommend buying from a store than ordering online. WONT RECOMMEND BUYING ONLINE,Negative,0,train
+test_631,test,Aashirwaad's chakki fresh atta does not live up to its name.,Negative,0,train
+test_632,test,supports and sustains the melody of another instrument or singer by providing a continuous harmonic bourdon or drone.,Positive,1,train
+test_633,test,It is not durable.,Negative,0,train
+test_634,test,A typical Sandra Bullock overreacting to mild inconveniences and complete stupidity.,Negative,0,val
+test_635,test,"The chocolate eclair, the cakes (Chocolate Praline Cake, Belgium Chocolate Cappuccino Tart and Cappuccino Truffle Cake are a must try) and pastries, and the new range of ice cream sandwiches are just awesome. The staff at Kookie Jar are very friendly and professional, also online orders are placeable through Swiggy.",Positive,1,val
+test_636,test,Amazing but comes with a 3.1 channel speaker. The sound output is terrible because of small speakers of 5*7 inches and the lack of supporting software like Dolby.,Negative,0,train
+test_637,test,"There are some problems regarding the parking facilities as the hotel is located on the main road and they don't have any parking area of their own. Also, sometimes the billing is erroneous in that the prices on the menu and those mentioned in the bill does not match.",Negative,0,train
+test_638,test,"The books are very good with colorful, bright, pleasing illustrations. As the name suggests these are an introduction to hindu mythology for young kids, thus being a part in their educational development.",Positive,1,train
+test_639,test,"This is an indeed all in one app. You get popular web series, movies, shows everything you need to binge watch at one place.",Positive,1,train
+test_640,test,Made of high impact fibre for extra durability,Positive,1,val
+test_641,test,Phenomenal space related sci-fi. it's showing love for our mother earth,Positive,1,train
+test_642,test,"Comes with a humidity controller. By this, you will be able to change the humidity levels according to the need of climatic conditions of the area or space you are in.",Positive,1,train
+test_643,test,"More than a Mars, it looks like a desert....poor work on visual effects",Negative,0,train
+test_644,test,"It is made with high-quality natural cotton rope and jute that prevents rope burns on your hands. This rope leash has a heavy-duty steel clasp on the one end that attaches the collar or harness. It is ideal for outdoor activities like walking, training, tracking and patrolling.",Positive,1,test
+test_645,test,"Has nice EQ mode apart from Ultra bass and Gaming modes. EQ will adjust the balance in the audio signal that will allow to boost or cut certain frequencies, essentially volume control for bass (lows), mids, or treble (highs).",Positive,1,val
+test_646,test,82 mm and not compatible with all types of cameras.,Negative,0,train
+test_647,test,Material used is thick and pouch comes with neoprene lining from outside and soft faux fur lining from inside to protect the lens from bumps.,Positive,1,test
+test_648,test,"The food has very good flavour, easy to digest, coat becomes shinier. It has a Positive effect on their tummies and skin. Haircoat becomes significantly soft and shiny after a month of eating.",Positive,1,train
+test_649,test,Too heavy for the age 4-6. The language is not so simple for the kids to read on their own.,Negative,0,val
+test_650,test,Not portable but easy to set up.,Negative,0,test
+test_651,test,"it has an inbuilt ultra bass woofer. In a single speaker, we get the complete effect of a party set, and the bass level of the woofer simply trembles the heart.",Positive,1,train
+test_652,test,"The shared bathrooms are not at all abiding by the general cleanliness necassary for a stay to have, the minimum amenities like a soap is not provide even in the bathrooms of the highly priced single bed room (so no fulfilling bath after a long flight and thereafter a long journey from the airport). Also the wifi was interrupted due to frequent powercuts with no backup power source avilable.",Negative,0,train
+test_653,test,Very small area and the music is not up to the mark and very loud that is uncomfortable for the ears in a small area. The entry fee is very high (₹1000/- per person),Negative,0,test
+test_654,test,"Easily accessible perfect location with well-maintained and clean bathrooms, beds (both male and female dormitories and bunk beds available with attached bathrooms), kitchen, dining and living rooms giving a homely and safe feeling to the lodgers added to the very affordable price for overnight stay as well with convenient check-in and check-out timings. Free wi-fi is also available, the breakfast is also complementary and the self-service system is well-equipped with a kitchen provided with cutlery, microwave and cook-top, a washing machine, an aquaguard, and a small library in the lounge gives an enriching feel to the place.",Positive,1,train
+test_655,test,Very safe as every station is manned by several guards,Positive,1,val
+test_656,test,Masterpiece symbolising time-travel!! May be the only one of it's kind from Indian subcontinent.,Positive,1,train
+test_657,test,Manufactured with high quality plastic with no manufacturing fault.,Positive,1,train
+test_658,test,"My 4 year old son is mildly autistic and has a severe speech delay, but this book is perfect for kids facing similar issues. It is carefully designed activity oriented book for educational development of all the kids. Loved it!!",Positive,1,train
+test_659,test,doesn't produce noises as other inverters of this kind. It's such a relief,Positive,1,train
+test_660,test,Quite monotonus for certain narrators. They narrate the content in the same pitch which makes the books boring at times.,Negative,0,train
+test_661,test,"Finding friends and connecting with them is made easy. The only thing you need is exact name and you can easily find them, connect with them, follow what they are doing and chitchat with them. Nostalgic!",Positive,1,train
+test_664,test,Just inspiring! It is a good motivational documentary to watch and truly gives an insight into what it takes to be an Olympic Archer.,Positive,1,val
+test_665,test,"Doesn’t support V-Brakes, cable slot is vulnerable to debris",Negative,0,train
+test_666,test,"It housed inside Trion IT park, (previously Inorbit mall) is a great cinema multiplex hall with top notch services.",Positive,1,test
+test_667,test,"The 4 blade variant is a new features. It is a very good feature, especially for larger areas like lounges and halls.",Positive,1,train
+test_668,test,My 5 year kid loves listening to fascinating stories. Helps your kid enrich his imagination and vocab. It has attractive illustrations to add fun to the stories.,Positive,1,test
+test_669,test,"The air conditioners were not working properly making the inside very hot. The service needs to be improved quite a bit to suit all types of customers, especially those carrying a check-in luggage with them, who need to be attended to promptly without any laidback attitude.",Negative,0,train
+test_670,test,"Its products are lightweight, water resistant and premium leather. It’s a comfortable backpack for students and it is unisex. Good for travelling purposes too.",Positive,1,train
+test_671,test,"It is really sweet at its job! Apart from being paraben free and waterproof, it also conceals my dark circle completely with almost a professional touch.",Positive,1,test
+test_672,test,"I do not recommend it as the pics/lines from backside page is visible. No adorable designs, in fact it has animals with scary theeths and eyes which is not good for 4-5 year old kids.",Negative,0,val
+test_673,test,I feel more of like secure using whatsapp than before from the point the started end-to-end encryption for every chat. No thirdparty picking into private zone anymore!,Positive,1,train
+test_674,test,The collar is made of nylon and has a nice grip. The collar is adjustable.,Positive,1,test
+test_675,test,"The pencils are dry and brittle and break frequently while colouring; the lead is not pigmented enough to make your drawings look great. Can be given to children if you want to teach them to be patient; but for serious usages, it's an absolute waste of money.",Negative,0,train
+test_676,test,Their diapers are super soft and anti-rash. I am quite content with my buy.,Positive,1,train
+test_677,test,Fans are now coated with a dust-resistant coating. It is easy to clean the fans because the dust settling on the blades is very less.,Positive,1,test
+test_678,test,"Need to announce in English with equal frequency as in Tamil, particularly inside the trains",Negative,0,train
+test_679,test,Hook is not available in the pouch and also it does not show that much effective resistant to water.,Negative,0,train
+test_680,test,"Baltra is giving 4 blades in its table fans, which is not necessary. The space between the blades is so less that it almost stops blowing air when kept in a closed area.",Negative,0,test
+test_681,test,He seems to get gripy stomach after being given this.,Negative,0,test
+test_682,test,"Thankful to the developers. A perfect platform for me as an influencer to customize and design and domain-wise themes and I can seamlessly add links to the products, articles and what not to expand my outreach to wider audiences.",Positive,1,train
+test_683,test,Saves a lot of time in the busy capital city,Positive,1,train
+test_684,test,"Inverter tech is very old. It doesn't support devices which have a temperature control mechanism like fridge, water heater, etc.",Negative,0,train
+test_685,test,The lens is ill-equipped to block dust and prevent scratches.,Negative,0,train
+test_686,test,Makerd could have easily made this to educate people but instead they chose to criticise to the government sarcastically.,Negative,0,train
+test_687,test,Material used is not good and it is not waterproof,Negative,0,train
+test_688,test,"Went on a Friday evening show for KGF 2, theatre is clean. However, they lowered the movie sound which evidently affected the surround movie watching and felt I was watching it in my home theatre, it spoiled the movie experience.",Negative,0,train
+test_689,test,"The headrest has a locking mechanism which can be used only on full-recline or upright positions, so one can never get the desired recline. Besides, the armrests cannot be adjusted sideways or horizontally, so they feel very uncomfortable as if constantly protruding away from your body.",Negative,0,train
+test_690,test,The quality of the MV88+ for voice recordings is much worse than the quality of the internal microphone of the iPhone,Negative,0,train
+test_691,test,Bad mediocre movie. The dialogues are terrible and the plot is boring and predictable.,Negative,0,test
+test_692,test,"After using this iKall 's new home theater system for a week I saw that it has only USB and HDMI connectivity. Strangely It doesn't have Bluetooth, hence the wired connection is messy.",Negative,0,val
+test_693,test,There are no attractive colours in their products. I can make better designs than these guys,Negative,0,train
+test_695,test,The sound quality is pretty decent and there are lots of different settings.,Positive,1,train
+test_696,test,"In recent weeks, SonyLiv is listing some really popular series and some good content to binge watch.",Positive,1,train
+test_697,test,"Best ambience with extremely delicious food at a very reasonable price, and the menu has a good blend of western and oriental dishes. Their Green Martini and the very yummy Brownie Delight have unforgettable taste.",Positive,1,val
+test_698,test,"Sonodyne's tower speakers come with an inbuilt extra-bass woofer, wifi connectivity, and DJ mode. It's a party feel to play this magnificent speaker.",Positive,1,train
+test_699,test,"Nice with a pool bar and music, ambience is quite good, the staffs are helpful and courteous. The food is also good.",Positive,1,train
+test_700,test,It smells pathetic.,Negative,0,train
+test_701,test,It is quite a fun place for kids and adults both with helful staff. A must try for people who love adventure,Positive,1,train
+test_702,test,"After I watched Raya and the Last Dragon, this movie is just WOW!!! The character development od dragons is outstanding and yes, MORE WOW!",Positive,1,train
+test_703,test,Very well maintained stations and coaches,Positive,1,train
+test_704,test,Ugg! No garvity effects in space ship. They are roaming like they are in office.,Negative,0,test
+test_705,test,"It is not alcohol free. In fact, to me it felt like the smell resonates so much of alcohol. Had a terrible experience in using this.",Negative,0,train
+test_706,test,"Made of high quality TPE material and stainless steel safety blades, it will not rust, is ergonomic, non-slip, fine grip handle. Regular brushing easily removes stubborn tangles and dead undercoat so no fur goes flying. It is ideal for removing loose hairs, dead fur, eliminates tangles, increases blood circulation, reduces fur loss and helps prevent future fur loss.",Positive,1,train
+test_707,test,"Has a big tank but the motor is just 1 HP. Though it looks like covering a large area in size, the motor won't allow pushing the limits.",Negative,0,train
+test_708,test,Most liberal about luggage.,Positive,1,train
+test_709,test,"It is made with super soft jersey cotton fabric, these stretchable t-shirts are great for year round weather. Great to wear under fleece coats in winter to avoid skin rashes and dandruff caused by warm fabrics. Protects in summer against AC chill. specially designed armholes do not cause matting.",Positive,1,train
+test_710,test,Totally false and wrongly diverted film with history even not match 1%,Negative,0,train
+test_711,test,"More than the special effects, it looks like VR experience. Fooling your brain through special effects.",Negative,0,train
+test_712,test,"The tower speakers of iKall are connected through wifi. So there is no hassle of messy wires, failed Bluetooths, searching cables, etc.",Positive,1,train
+test_713,test,"The space is a bit congested and the food was served without tissue and water. The staffs' behaviour was also not good with used tissues scattered here and there, thus making the scene not a very impressive one at a first glance.",Negative,0,val
+test_714,test,"The only issue with scoop it is that it isn't easy-to-share photos, videos.You'd need to learn to use it before you can actually use it like a pro. Not one of the easiest tools out there.",Negative,0,train
+test_715,test,Sleeper width is inadequate for two adult males sleeping side by side. Its a very bad experience.,Negative,0,train
+test_716,test,It has a wonderful and mesmerising fragrance. It turns you into your best fresh and active version upon the very first use.,Positive,1,train
+test_717,test,The fabric is SUPER SOFT!! Excellent well woven cotton.,Positive,1,train
+test_718,test,The tank capacity of the window air cooler by Usha is too less. We can't fill it often because it's a window cooler and we need to take it down while filling water.,Negative,0,train
+test_719,test,"This product includes rare important vitamins, minerals and anti oxidants which are very important for their nervous system,skin and digestion which are rarely found in one complete pack made by other manufacturers.",Positive,1,train
+test_720,test,"As a marketer, business, a blogger, scoop it has a lot to offer you in terms of finding new content ideas, building relationships, getting backlinks, promoting content, , and more.",Positive,1,train
+test_721,test,"The thing about the book is that it is light, funny, easy to digest due to simple language and all around great for the kids",Positive,1,train
+test_722,test,Manufacturing quality is poor as some peices come with a hole also is not long lasting.,Negative,0,train
+test_723,test,Well connected to almost all district HQs in the state of Maharashtra. You can also go to some major cities in the adjoining states.,Positive,1,train
+test_724,test,It is nourishing and instantly helps control odour. It is really gentle and alcohol-free to prevent skin irritation.,Positive,1,train
+test_725,test,"AC is now providing a voice commands facility. But the Wifi connectivity is too slow, hence most of the time commands won't work properly.",Negative,0,train
+test_726,test,Cap is scratch resistant as it has a coating on it and also protects the lens from scratches.,Positive,1,train
+test_727,test,It is sharp and durable. The motor generates low sound and vibration.,Positive,1,train
+test_728,test,The 35mm film camera with a sleek design made me nostalgic and took me to the old fashioned way of taking pictures. The overall quality of the camera and the pictures is quite nice.,Positive,1,test
+test_729,test,"Take my words, this one has substance, glory and beauty-everything in true Bhansali style! But the film is not just visually beautiful, it roars depth and passion be it the story, screenplay,, direction or performances or chemistry..So, just take a break, get through to the nearest multiplex, relax in your seat and get ready to witness one of the best period-romance dramas ever made!!",Positive,1,train
+test_730,test,Onida central AC has the best voice command option with wifi compatibility.,Positive,1,train
+test_731,test,"This concealer is very light. Hence, it won't work well to conceal my dark circles or puffiness.",Negative,0,train
+test_732,test,"The ambience is nice and the service was exceptionally good with some friendly bartenders and other staffs. Also, the variety of cocktails to choose from is quite inpressive, with The Kolkata range cocktails being very well-designed.",Positive,1,train
+test_733,test,It is not washable.,Negative,0,train
+test_734,test,"EQ lets you have your say on what the music you are listening to should sound like. But Noise's new soundbar doesn't have this feature, hence everything plays with high bass.",Negative,0,train
+test_735,test,No parking available inside the premises. Sometimes the customers complain about the bad and unprofessional behaviour of the staff alongside the AC not working even in a so-called Super Deluxe room and some appliances in the toilet not working properly.,Negative,0,train
+test_736,test,Very durable product.,Positive,1,test
+test_737,test,Get replacement parts straight from Intense website,Positive,1,test
+test_738,test,It is made of nylon and thus is durable. This collar protects your dog at night because of its reflector. It has a plastic buckle for easy on and off.,Positive,1,train
+test_739,test,"A masterpiece of identity haunting & dark reflection on America's past with chilly atmospherics, originality in concept, psychological torment + twists, old-world suspense-building, and one of the best scorings in modern Horror history.",Positive,1,train
+test_740,test,"The cream filling in the oreo sandwich biscuits is so rich and tasty. The 'twist, lick and dunk' formula is adding even more fun while having the cookies.",Positive,1,train
+test_741,test,Bought this after long deliberation. Sonodyne home theater system comes with 125 watts speakers of 5.1 channels. It gives a maximum boost to the sound and ultra bass.,Positive,1,train
+test_742,test,"Often when viewing and responding to shared images/events on an individual timeline, the process dumps you back to the beginning of the timeliness rather than continuing to the next one. Then you have to scroll all the way back again to view where you left off. Nobody ain't doing that.",Negative,0,val
+test_743,test,This app has a robust video library allowing me to edit video titles and descriptions for tailor-made content. I am just awstrucked.,Positive,1,test
+test_745,test,"Many people have mentioned that they liked the skirt of this shuttle. So, I bought one last week and found out that it has softer plastic skirt and looks much better.",Positive,1,train
+test_746,test,"It disperses the light over a wider area for a softer, more balanced and natural effect and also eliminates the annoying red eye effect.",Positive,1,train
+test_747,test,"It's very light-weighted, with smooth revolvers, and wheels; the metal is top-notch and has an elite matte-like finish. The back-rest is comfortable and comes with a lockable recliner which makes it very safe yet cosy.",Positive,1,train
+test_748,test,"Does not have multi locking, and supports only 4 adjustable heights.",Negative,0,train
+test_749,test,The room service as well as the service in restaurant is very bad with the banquet/restaurant staff being quite inattentive. The breakfast option does not have any choices; the lunch also does not offer a good variety of cuisines to choose from.,Negative,0,train
+test_750,test,the AC doesn't contain a voice command facility yet. It is really surprising how far is the product yet to traverse to support Wifi.,Negative,0,train
+test_751,test,"The ink looks faded at the beginning and darkens only after a few days of usage; the ink flow is not consistent, so one has to scribble a few times before actually writing. The ink is a bit light sometimes, so a lot of pressure has to be put.",Negative,0,train
+test_752,test,The dog enjoys Moist and Meaty cheeseburger flavor with a ridiculous ritual involving lip-smacking noises & food guarding maneuvers. It improves health and energy levels. It provides good nutrition and perfect metabolism. Good for toothless friends as it is easy to chew.,Positive,1,val
+test_753,test,Drawings are nice & big i.e A4 size. The drawings have thick bold lines which highlights each and every picture. Best colouring book for my 5 year old kid.,Positive,1,test
+test_754,test,Very powerful in terms of optimum air delivery. But the colors are so boring that they look like factory parts.,Negative,0,train
+test_755,test,The design of the window air cooler by Usha is elegant with smooth edges and cool colours. It matches with any interior colour.,Positive,1,train
+test_756,test,The machine heats up.,Negative,0,train
+test_757,test,"The cotton t-shirt adopts loose round neck design, which makes it easy to put on and take off, and will not restrict pets' movement, allowing them to run, jump, roll at ease.",Positive,1,train
+test_758,test,"It cleans the coat really well, making it really soft! It also takes care of any flea or bacteria present. Also, it leaves behind a pleasant scent!",Positive,1,test
+test_759,test,The bristle brush side helps knock off loose hair or dirt and the pin brush side helps with finishing and combing to give a healthy shiny coat. It also controls hair shedding. Works great for dogs of all sizes and hair types.,Positive,1,train
+test_760,test,Honest disclosure of all ingredients,Positive,1,val
+test_761,test,"For the model Hero Splendor, many buyers found the engine to be the same as the older model of Hero Honda Splendor. There were also complaints about its chassis stucture being weak.",Negative,0,train
+test_762,test,The fit is a little funny and I ordered sleeveless but they keep sending dress with sleeves. Had a terrible experience!!!,Negative,0,train
+test_763,test,A nice homestay at a good location with a great view of Mt. Kanchenjungha and the Mirik Lake from the common balcony and from most of the rooms as well. The food is also good at an affordable rate.,Positive,1,train
+test_764,test,The cap fits loosely on the lens and hence does not protect it from dust.,Negative,0,test
+test_765,test,The space is not very large with the very limited seats. The price of both the food and the alcohol is quite a bit high-notch.,Negative,0,val
+test_766,test,Just a heck of a movie. Story looks like loosly knitted plot in a hurry to make a movie.,Negative,0,train
+test_767,test,The ambience is fantastic along with a great menu to choose from. The beer is to die for and have also got valet parking facility,Positive,1,val
+test_768,test,One of the story that must reach the world! The Power of Marathas,Positive,1,train
+test_769,test,Quality has deteriorated as compared to its previous versions. The deo doesn't last long as is advertised and often it works under 6 hours.,Negative,0,train
+test_770,test,This platform is pretty open to have discussions and I think it has pretty interesting range of discussion topics with a wide range of people from different backgrounds participating. A great place to share knowledge and views and get quick answers.,Positive,1,train
+test_771,test,Sweat and water resistant.,Positive,1,train
+test_772,test,Not reccommended for cell phones as the holder is not good and have chances of damaging phone,Negative,0,test
+test_773,test,Sound quality is the one thing Audible needs to improve. We are disconnected from the story a lot of times due to the poor sound quality.,Negative,0,test
+test_774,test,"With Google Podcasts, you can play the latest episodes from your favourite shows, explore podcast recommendations just for you and manage your listening activity. What a stupendous app it is!",Positive,1,train
+test_775,test,I can vouch for the fragrance of this deodorant. It's long lasting and stays even after 5 hours during the summer months.,Positive,1,train
+test_776,test,"Nithin's performance, I think he is very very stylish, natural and especially very good at handling comedy scenes. The faceoff scenes with the villain are extraordinary and I think this performance is one of the best in his career",Positive,1,test
+test_777,test,"It is made up of 300 series stainless steel material with round tips, which makes it ultra-durable and strong. The metal hairbrush protects the pet from coat irritation as it gently removes all the dead hair, knots, and tangles, leaving the pet in a comfortable state. This Dematting & Deshedding grooming tool can also be used to remove lice and ticks.",Positive,1,val
+test_778,test,I can't believe Pixar tried to rip off the amazing film that is Ratatoing and just thought nobody would notice? This is ridiculous.,Negative,0,train
+test_779,test,"Though the racket is lightweight, it is not that well-balanced as compared Yonex rackets.",Negative,0,val
+test_780,test,Constant use of flash drains out the battery very soon.,Negative,0,train
+test_781,test,"The visuals effects are breathtaking, some beautiful shots and immersive cinematography.",Positive,1,train
+test_782,test,the garder is so big that whenever you go you see some maintenance activity going on and restriced access in repective areas. Just not peaceful!,Negative,0,val
+test_783,test,it works fine only before Vignetting,Negative,0,train
+test_784,test,Normal fibre build and not long lasting and is suggested for only beginners not for professional usage,Negative,0,val
+test_785,test,Excellent movie experience with combo food. Cinepolis Follows covid rules. Good sound and picture quality and comfortable vouch. It's on the 3rd floor and connects to major food giants.,Positive,1,val
+test_786,test,Designed and built by mountain bikers for mountain bikers.Lifetime frame warranty,Positive,1,train
+test_787,test,It is not long-lasting.,Negative,0,val
+test_788,test,"classic multimedia player is now equipped with blue tooth. It's like grandpa with cell phone, nostalgia combined with hi-tech.",Positive,1,train
+test_789,test,Sodium Nitrite is used in this dog food which is not good for dog heath. This product gave both my 5 month old puppies terrible diarrhea.,Negative,0,train
+test_790,test,"The table service is quite nice, is good to eat out with family, taking the minimum-most toll on the pocket.",Positive,1,train
+test_791,test,AC is now equipped with a Copper condenser. It is more energy-efficient and durable compared to other materials in the market.,Positive,1,val
+test_792,test,Very nice activity oriented book. It has everything you need to strengthen your child's prewritting skills with colorful and attractive pictures and writting activities,Positive,1,train
+test_793,test,"This movie is a best example of terrifc story telling, but all in Negative sense. You will have to find a time to make a sense of every scene!",Negative,0,train
+test_794,test,Gather your friends and test your mettle in competitive ranked mode or sharpen your aim in social play. Everything in this game will just amaze you.,Positive,1,train
+test_795,test,The seams came off in the first wash itself and it seems synthetic even though it says 100% cotton.,Negative,0,train
+test_796,test,"The Table service is very commendable, with the serving personnels being ever ready to answer any menu related queries and ready to serve the customers the way they want",Positive,1,train
+test_797,test,"Not very clean interiors, may be because they don't remain at the terminal for a long time.",Negative,0,train
+test_798,test,The product quality is not great as after a wash the cloth tears up and the print fades away. .,Negative,0,val
+test_799,test,Awsome depiction of 19th century Indian village and its enchanticng characters. Watching how Mowgli is taken into by the human society as he learns their ways is so convincing and bone chilling.,Positive,1,train
+test_800,test,This is just awesome !! Thankfully like other apps this one isn't monotonic. Distinct voices just kept me engaged.,Positive,1,test
+test_801,test,Very well maintained and green garden. Big ground with seperate children play area and a round walking track surrounding the middle ground with many sitting desks.,Positive,1,train
+test_802,test,The bland taste of the biscuits make them a less preferable option,Negative,0,train
+test_803,test,The star cast is so much better than that of the orignal Harry Potter movies,Positive,1,train
+test_804,test,Even a slight movement of the microphone will cause the micro-USB cord to shift and thus terminate the ongoing process,Negative,0,train
+test_805,test,The pram is not easy to fold at all. Both my husband and I have to struggle to put it in our car. I am NOT RECOMMENDING this to any of the new parents.,Negative,0,test
+test_806,test,The smell is a little funny. I start sneezing everytime I use it on my baby.,Negative,0,test
+test_807,test,".The way the movies starts , it will surely give goosebumps to every MJ fan.It takes u to an exciting and inspirational journey of michael.",Positive,1,val
+test_808,test,"Aha, we finally have our own Marathi Romeo and Juliet.Parshya and Archie's love story has all the ingredients to become a bigger blockbuster.",Positive,1,val
+test_809,test,"Bite-sized, chewable, coat becomes healthy and lustrous.",Positive,1,train
+test_810,test,"The price is a bit on the higher side especially during the Christmas, along with the gradually deteriorating quality of the cakes and the rumball. The cakes need to be available in smaller sizes as well (minimum buy for a whole cake is 500gm)",Negative,0,test
+test_811,test,Best is that you can find music albums just like in a music store but for free. And on the top of that you can download songs to create your own favourite playlist.,Positive,1,train
+test_812,test,Rates are very low currently,Positive,1,train
+test_813,test,cooler is not yet upgraded to humidity controller and all. It emits the same level of cool air in all the seasons which irritated sometimes.,Negative,0,train
+test_814,test,Holy wow! what an amazing movie! I love the message about choosing between friendship that improves your social skills or presuming what you really want in life that would get you to succeed.,Positive,1,train
+test_815,test,"No more bad breath, easy to use and keeps the plaque at bay.",Positive,1,val
+test_816,test,"As you explore Clubhouse chat rooms and listen to different speakers, you have to be discerning about who you trust and take advice from. A lot of coaches and speakers claim to be successful multimillionaire gurus, but when I’ve done a bit of digging into their experience and their companies, I’ve found it’s all just smoke and mirrors.",Negative,0,train
+test_817,test,"Now comes with very good sweep size. The blades on this ceiling fan have a sweep length of 1200 mm, which means it can deliver the optimum amount of air suitable for any large room.",Positive,1,train
+test_818,test,One of the worst movies I have seen. Such a lame and filthy humour,Negative,0,train
+test_819,test,"Has integrated control now. It's a high-resolution audio server so that you can stream our entire personal digital music collection, and also controls the complete home theater.",Positive,1,val
+test_820,test,"I have realized that it was nothing more than a sleazy gossip web rather than knowledgable people addressing discussions. Repetitive questions, no controversial comments the moderators don't like, they make it difficult to leave.",Negative,0,test
+test_821,test,Wide tooth slot is missing.,Negative,0,train
+test_822,test,"Voltas AC Inverter has energy-saving technology that eliminates wasted operation in air conditioners by efficiently controlling motor speed. Plus it is AI-operated, what more comfort can you expect!",Positive,1,test
+test_823,test,"This movie is an emotional rollercoaster, and in the best way possible. Dealing with such a dark topic with such empathy and sensitivity, the subtle humour, with such engaging characters, the 1.5 hours I invested into watching this was worth it.",Positive,1,train
+test_824,test,The overall story feels slightly intriguing and there are a few twists that make the final part of the film quite unpredictable!,Positive,1,train
+test_825,test,Love the soft fabric. Super easy to maintain.,Positive,1,test
+test_826,test,"Now comes Air Purifiers in Split AC, but as the air purifiers do not remove Carbon dioxide, it is highly important to occasionally open the windows. Keeping doors and windows open will reduce the effectiveness of the air purifier.",Negative,0,train
+test_827,test,Blue star AC has introduced a combined evaporator as a new technological feature. But it costs more on maintenance.,Negative,0,val
+test_828,test,It's the walk on easy place to have a chat with your friends. To add in to that they have some funny as well as creative sticketrs to help your reactions being felt.,Positive,1,val
+test_829,test,"The story doesn't grip you as much as it should because there are too many characters, too many confusing events and not much to focus on.",Negative,0,test
+test_830,test,"Creatively designed for educational development. The concept of Solar System is very well put up while camping under the black skies and initiating the conversation by making campfire (representing SUN), drawing circles around and using fruits, pebbles or anything round as planets on the orbits.",Positive,1,train
+test_831,test,"Designed for dogs with sensitive stomachs. It smelled so good and our dog's nose was sniffing so hard, it was almost trembling. It is healthy.",Positive,1,train
+test_832,test,Thiscooler by Havells is noisy and heavy. Not suitable for kids' rooms where they have to study.,Negative,0,train
+test_833,test,"Pattern Squencer is Isolated , Thus favourite banks won't work with Pattern Sequencer and Audio loops take too much time to load.",Negative,0,test
+test_834,test,"The residence of Bengal's Ex-CM Siddhartha Shankar Roy, the heritage building offers visitors a feel-good heritage stay-experience in the venue along with the homely food on offer.The ambience is nice with quite a large library welcoming the guests; located in an advantageous position in Kalighat, the neighbouhood is calm, serene and safe.",Positive,1,test
+test_835,test,this doesn't support many devices like refrigerators and water heaters. It's ridiculous that I'm not informed about this prior.,Negative,0,val
+test_836,test,These tower speaker comes with a small woofer and doesn't have DJ mode. The sound feels flat and uninspiring because of the lack of audio output modes.,Negative,0,train
+test_837,test,"A great app, you can find all the music in any language. Suggestions are pretty good, sound quality too is amazing.",Positive,1,train
+test_838,test,"The best part of this game is that it allows you to take on friends and rivals in global 8-player, cross-platform, real-time racing. You can drop into any race to challenge their AI controlled versions in time-shifted multiplayer modes",Positive,1,train
+test_839,test,Gives a sense to manage shots time to time from sharp flash lights and the velcrove is quite right to mount.,Positive,1,test
+test_840,test,"Small, comfortable, well padded, and it is waterproof",Positive,1,val
+test_841,test,Its very easy to insure the journey when you book online on irctc's site,Positive,1,val
+test_842,test,air cooler is small in size for tiny spaces. But the caster wheels' quality is so poor that it fails to support even such a small cooler.,Negative,0,train
+test_843,test,"46 mm thread size with UV filter that bocks out UV light and produces sharper, more brilliant images with true-to-life colour.",Positive,1,test
+test_844,test,Undesirable sound quality with average picture quality.,Negative,0,train
+test_845,test,Keeps the skin moisturized for the whole day.,Positive,1,train
+test_846,test,An example of a terrible fantacy book. It should be renamed as Mr. Sad. Not at all funny.,Negative,0,val
+test_847,test,"Downloading the shows, podcasts or any loved available would take ages irrespective of internet speed.frustrating and disappointing app to use.",Negative,0,train
+test_848,test,Stand comes with level indicators that is built-in bubble view levels and 3-way head that can be rotated at 360 degrees.,Positive,1,test
+test_849,test,"The efficiency is not up to the mark. Because of its inbuilt technology, the electricity consumption is sky-high.",Negative,0,train
+test_850,test,Terrible acting skills of the reader. Absolutely no emotion in the reading and horribly monotonous and really ruined the story.,Negative,0,train
+test_851,test,The variety in cocktail needs a little improvement. The price is a bit on the higher side.,Negative,0,train
+test_852,test,"Cleans out the dirt and adds shine to the fur. Good leak-proof packing, easy to use design, mint fragrance, soft to coat",Positive,1,train
+test_853,test,"It's handy, the size is good, works fine, pulls out all excess loose hair without causing abrasions.",Positive,1,test
+test_854,test,This filter does not have coation on either side of the glass.,Negative,0,val
+test_855,test,The bed is soft and durable. The cover can be removed and is machine washable.,Positive,1,test
+test_856,test,"Poor comedy, poor direction. Poor chemistry, No story. Watch first 15 mins and then come back for the end 15 mins, you haven’t missed anything, such a thin plot!",Negative,0,train
+test_857,test,It has low strength compared to OPC and can't be used as construction material in concreting.,Negative,0,train
+test_858,test,Only one compartment is available.,Negative,0,train
+test_859,test,"This book is compilation of short stories, comic strips and jokes. The pictures are very attractive!!.",Positive,1,train
+test_860,test,"Less ayurvedic, more chemicals.Filed with toxic chemicals.",Negative,0,train
+test_861,test,No defense against ticks. This shampoo has caused a lot of shedding,Negative,0,test
+test_862,test,Has a very big cooling tank. It is efficient for large spaces like hostels or hotel rooms.,Positive,1,val
+test_863,test,"Unlike their catchphrase, these colour pencils are extra light and give an unpleasant and dull look to your work. the lead is so fragile it breaks at the slightest pressure.",Negative,0,train
+test_864,test,"Comes with 2 soft light, 4 color patches and magnetic ABS",Positive,1,train
+test_865,test,Too Classical Natya sangeet type! Everyone may not feel connected.,Negative,0,train
+test_866,test,The thermostatic controls in AC chair cars and 3 tier AC sleeper need to be checked frequently as many times the temperature is either very low or very high..,Negative,0,test
+test_867,test,"Though the size of the fan looks big, it has small blades. the air delivery speed is very less.",Negative,0,train
+test_868,test,Active noise cancellation is promoted as the best. but on my what a surprise. exactly opposite,Negative,0,train
+test_869,test,"Pouch is robust padded and water repellent nylon material which protects the lens from moisture, dust, sand and bumps.",Positive,1,val
+test_870,test,This roll-on does what it says. It has already made my skin tone even and fresh.,Positive,1,train
+test_871,test,"Like its name, Nature Fresh's chakki atta is of a fresh quality and harmful additive free.",Positive,1,test
+test_872,test,The quality of the wood is very good. Stock Strings sounds nice!,Positive,1,val
+test_873,test,Cleanliness has improved immensely during the last 5 years as feedback is regularly sought from passengers actually traveling in the train.,Positive,1,val
+test_874,test,This has a truly advanced film SLR with great shutter priority modes.,Positive,1,train
+test_875,test,Made with cheap plastic. The blades stutter while the fan is running and eventually is a waste of money.,Negative,0,train
+test_876,test,Google play books are never dull and monotonus. The perfect voice modulation makes it interesting and live.,Positive,1,train
+test_877,test,"Bold, projected sound,Easy to tune.",Positive,1,train
+test_878,test,The Binge watch hell it is. So much of dark content at one place that finding soothing content is a task here.,Negative,0,val
+test_879,test,Narration hss been cut short into small pieces that it may feel like whole story is bing compromised.,Negative,0,train
+test_880,test,This is the best powder formula I have come across. Very mild on the skin.,Positive,1,train
+test_881,test,"Some dogs face stomach problems, vomiting, and allergies.",Negative,0,val
+test_882,test,This concealer doesn't work for my skin type. It creases after some time and skin tone becomes uneven. Wont recommend at all!!,Negative,0,train
+test_883,test,This app allowes you to use high-resolution posts and wallpapers for your ads just with few clicks.,Positive,1,train
+test_884,test,"Loved the plot, all the cast and performances were brilliant. It was funny yet at the same time had emotional depths.",Positive,1,train
+test_885,test,Modi is famous for big pedestal fans for large areas. The main feature of this brand is lengthy blades and bigger sweep size and hence far-reaching air delivery.,Positive,1,train
+test_886,test,The perfume is not long lasting. I would not recommend spending money on this.,Negative,0,train
+test_887,test,Low sound cancellation is a major problem,Negative,0,train
+test_888,test,"This is an anti-microbial, anti-fungal moisturizing shampoo, that reduces skin irritation and inflammation while repelling parasites and other insects from your furry friends. It nourishes and hydrates their coat as well.",Positive,1,val
+test_889,test,"Wildcraft products are good quality, light weight, made with the finest materials and water resistant. The quality is good and can accommodate plenty of things for a single person. Their products are mostly water resistant with rain cover.",Positive,1,val
+test_890,test,There is no LCD display and the clipper and scissor are useless.,Negative,0,train
+test_891,test,Not recommended for short hair type.,Negative,0,train
+test_892,test,Its definitely one of the best massage oils for your baby! My baby has actually started sleeping better after using this oil.,Positive,1,train
+test_893,test,Punctuality is much better as compared to the past,Positive,1,train
+test_894,test,Bluestar has introduced a humidity controller with its new models of tower air coolers. It's a fancy feature compared to any brand in the market.,Positive,1,train
+test_895,test,"V-guard's table fans lack both sweep size and length. Hence in spite of a powerful motor, the air delivery speed is not so efficient.",Negative,0,train
+test_896,test,"Very short 1-5 year warranty on frames, limited colour choices.",Negative,0,train
+test_897,test,Single book does not have even 50 pages. I was expecting atleast 200 pages per book. Could not justify the price.,Negative,0,val
+test_898,test,The dog suffered loose motions whenever had this.,Negative,0,test
+test_899,test,A collection of horrifying tales rather than fairy tales. My kids do not like the stories at all. Waste of money :(,Negative,0,train
+test_900,test,"It totally removes the smell, leaving behind a sweet fragrance. It is not harmful for pets.",Positive,1,train
+test_901,test,The book is short in number of pages and it is not that creative. It seems like a regular math workbook. Not worth the price.,Negative,0,val
+test_902,test,The online order of the Blueberry Cheese Cake (ordered through Swiggy) was very small in size in comparison to the price. The quantity is not at all satisfactory thaus not value for money.,Negative,0,train
+test_903,test,Book is good but the reader should stop making those fake talking sound of characters. It's terrible!!,Negative,0,train
+test_904,test,I really enjoy listening to the duet narraion stories on walks or on my daily commute as the change in the voices keeps me engaged to the story. We can feel the story more in the Audible's duet narration section.,Positive,1,train
+test_905,test,Not well maintained. Well what else to expect for free#only for society people,Negative,0,val
+test_906,test,This site does't provide you any pre designed themes or templetes. You will have to use your cretivity and create everything from a scrach.,Negative,0,val
+test_907,test,"Videocon AC comes with the Artificial Intelligence convertible mode and inbuilt sensors. With these features, the air conditioner will give perfect cooling by automatically analyzing current conditions and inputs given by the sensors.",Positive,1,train
+test_908,test,Godrej AC's new feature of the voice command is not so efficient because of its very high bandwidth wi-fi support system.,Negative,0,train
+test_909,test,"The cement has better resisitance to chlorides, soils and water containing excessive amount of sulphates or alkali metals and ions.",Positive,1,train
+test_910,test,The granules are too big for a puppy to swallow and too hard to chew,Negative,0,train
+test_911,test,"It's the best place I have ever came across, to listen in on fascinating conversations, talk with the world’s most amazing people, and make new friends from all walks of life.",Positive,1,train
+test_912,test,"Doesn’t lather much, minimal scent, hard to spread all over the dog’s body.",Negative,0,test
+test_913,test,"The plot wasn't very clear, the acting was mediocre and the story ultimately doesn't have any point or meaning it was trying to pass across.",Negative,0,train
+test_914,test,Croma is still producing ACs with traditional Alluminium coils. These are more prone to corrosion and less energy efficient.,Negative,0,train
+test_915,test,It says unisex but has bows printed all over it. Even the fabric is a bit scratchy.,Negative,0,train
+test_916,test,"Tiger is flowless doing the stunts, and that to on his own is a treat to watch. The best action duo in bollywood giving every inch of their enery into thr perfomace.",Positive,1,val
+test_917,test,The editing tools provided are so creepy that you will find the default android editing tools perform much better.,Negative,0,val
+test_918,test,"It contains Salmon which provides high-quality protein and omega fatty acids to support healthy skin and coat. This omega-3 fatty acid provided bt salmon oil, helps support brain and vision development in puppies. It is made without eggs or egg products, which is suitable for dogs who have sensitivity to eggs.",Positive,1,train
+test_919,test,A little bit congested. A bit on the pricey side.,Negative,0,train
+test_920,test,There's a huge range to choose from colorful and good-quality cotton shorts for kids. I am super happy with my purchase.,Positive,1,train
+test_921,test,Unbelievably terrible movie and with such a low work on giving visual chills and treats.,Negative,0,train
+test_922,test,It has a nice deodorant-like smell. The moisturizing ingredients such as aloe vera deeply hydrate your pet's skin and coat giving it a gorgeous look.,Positive,1,test
+test_923,test,The integrated control of this Hammer's soundbar is not so efficient. It fails to switch between different modes and ends up producing bad sound output rather than optimizing it.,Negative,0,train
+test_924,test,"Located in the heart of the city, every market is close to the hotel. All the basic needs of a guest is met here at a very reasonable price with the guest-safety coming as an added facility.",Positive,1,train
+test_925,test,"Awesome place, with the main attraction being the well-maintained swimming pool with music. The food is also very good and delicious with the main course always focussing on sea-food; car-parking space is also amost always available.",Positive,1,train
+test_926,test,Very expensive,Negative,0,val
+test_927,test,"Speakers don't work after a couple of years, they give a screeching sound even local repair is unavailable at most of the places.",Negative,0,val
+test_928,test,Please change the narrator for the book - 'Raavan by Amish'. Similar voice overs for most of the characters just takes the charm away from the story.,Negative,0,test
+test_929,test,Its bonding strength is more and its durability is also good.,Positive,1,test
+test_930,test,The leash has a good grip and can handle the pet with ease.Since it covers the legs and body there's no need for a extra collar can keep the pet under control.,Positive,1,train
+test_931,test,Utterly useless app! I can only use it to add titles to videos already uploaded which I can only upload via the main app!,Negative,0,train
+test_932,test,Over par action graphics given to this is a big reason that is causing lags.,Negative,0,val
+test_933,test,"I love the pacing and the storytelling route they have chosen for this extraordinary adventure. Absolutely brilliant performances from Bullock, Radcliffe and Tatum.",Positive,1,train
+test_934,test,The probiotics make it really easy to digest and I am quite happy with this advanced version of NanPro.,Positive,1,train
+test_935,test,The red colour is vibrant and it gives a vintage kind of feel about it. It has a double and long exposure which is really amazing.,Positive,1,train
+test_936,test,This paté style wet dog food features high-quality protein from real chicken to support healthy muscle maintenance. It makes a delicious treat and adds interest mixed into their favorite dry foods No upset stomach or loose stools.,Positive,1,train
+test_937,test,Extremely costly. We get similar books with much less price at other different stores.,Negative,0,train
+test_938,test,Urja exhaust fan is a heavy-duty fan meant for large areas like industrial buildings. Hence it fails to remove moisture and odour but protects only from heat.,Negative,0,train
+test_939,test,It so handy to carry around and has the perfect little cutout for pets to look out from. It is sturdy and nicely ventilated.,Positive,1,val
+test_940,test,It doesn't trim the hair properly.,Negative,0,train
+test_941,test,Fastrack has attractive designs and colour options. The bag has multiple pockets with a water bottle carrier. Unisex in design and waterproof.,Positive,1,train
+test_942,test,This app doesnot support multiple users. Only one number registered has the access or anyone who want the access will have to ask for otp from the parent holder with only one viewer at a time.,Negative,0,val
+test_943,test,6 mAh battery and not long lasting.,Negative,0,train
+test_944,test,"When you cancel, you get a zero as various charges are deducted.",Negative,0,train
+test_945,test,"Pages are not stitched properly. Half the pages separate from the book, if you just turn over all the pages one time.Terrible, terrible quality.",Negative,0,train
+test_946,test,This is not 5 ft long as claimed and not the material which they claim. Leash is weak and cannot withstand the pull.,Negative,0,train
+test_947,test,"Whole machine heats up after just 1 minute of usage, very bad quality, the battery is very poorly made, device doesnt charge properly after 6 hours of charging, it only works for 15 mins.",Negative,0,train
+test_948,test,"The ambience is awesome with some very good bands playing and performing live, and the food is good. The collection of alcohol is also nice.",Positive,1,val
+test_949,test,"Awesome designs, very light yet strong to carry heavy loads. Rotating wheels are very strong and flexible. Its products are waterproof and durability is also long.",Positive,1,train
+test_950,test,The food served is often cold on the inside though the outer surface of the food container is hot on touch,Negative,0,train
+test_951,test,"Beutiful compositions by Jeet Ganguly, Mithoon and Ankit tiwari. Everytime you hear those songs, you get a hearwarming experience.",Positive,1,train
+test_952,test,It's very bulky and cannot be used on camera hot shoe fixed flash as it tilts it downwards.,Negative,0,train
+test_953,test,Compatibility with every operating system and even smartphones,Positive,1,train
+test_954,test,The tonal quality of this guitar is absolutely Great. Rosewood fretboard makes it easier to get the depth of the tone as well as the smoothness,Positive,1,train
+test_955,test,"The food quality is not upto the mark, definitely not when compared to the extravagant prices charged for the meals; the welcoming sandwich can make you suffer from stomach pain and diarrhoea. The steep steps would make you think twice before taking any senior citizen with you; also you would be gravely disappointed if you are hoping for any fun activities or games here.",Negative,0,train
+test_956,test,very classy design and serves the purpose of protecting my TV,Positive,1,train
+test_957,test,Unimaginable experience we had... 3D glasses were full of scratches and when asked for replacement got rudely treated!!,Negative,0,train
+test_958,test,"Has premium quality back mesh, nylon, armrest, plastic, and other materials used in the making. It has the best Hydraulic technology so no sweat is absorbed despite hours of sitting, and the back rest steals the show.",Positive,1,train
+test_959,test,The copper coil that comes with Blue star central AC makes it costs more than other brands on the market.,Positive,1,train
+test_960,test,"Well... I thought it would be cool. But the flow of the comic strip is not so smooth, it is not at all interesting. Moreover, there are less pictures and more to read making it boring for young kids.",Negative,0,train
+test_961,test,"3800 mAh, long lasting during continuous flash usage.",Positive,1,train
+test_962,test,"Well padded from inside, compartments are spacious with respect to accessories",Positive,1,train
+test_963,test,Fitted with 50 Ltr. tank. It keeps the cooler efficient for days together without the tension of refills.,Positive,1,test
+test_964,test,"Pathetic app, didn't expect this from BBC sounds at all!! The sound quality for certain books is a complete disaster.",Negative,0,val
+test_965,test,The claims seem to be unrealistic and I don't see the approval of organic.,Negative,0,train
+test_966,test,This is one of the best eye concealers I have used so far. It truly reduces my dark circle after every application. JUST WOWWW!!,Positive,1,train
+test_967,test,"This is the best app if you are a zee fan, all of zee at one location. They also have been bidding to most populer moves and have their premium web series.",Positive,1,train
+test_968,test,It's really easy to shave. The hair comes out smoothly and without any issues. It works flawlessly.,Positive,1,val
+test_969,test,I love their range of bottles and sippers. They are flexible and anti-colic and very easy to clean.,Positive,1,val
+test_970,test,Milk bikis biscuits are crunchy and are very filling when consumed with tea. Definitely better than parle-g,Positive,1,train
+test_971,test,"Being a futuristic sci-fi film, 'The Martian' incorporates themes that link to ideas of human nature and humanity's future in an amazing manner. it is just phenomenal to experience man's natural desire to persevere and survive.",Positive,1,val
+test_972,test,"The detergent is neither biodegradable nor removes stains. It's just a gimmick by the brand. There are other good, authentic options available in the market. Please do your research and buy.",Negative,0,test
+test_973,test,Original flawless screenplay adaptaions by a genius director. I still can't believe this is indian movie and would highly recommended to horror fantasy genre fans,Positive,1,train
+test_974,test,AC lacks thermostats. Its either very low temperature or total lack of air conditioning.,Negative,0,train
+test_975,test,this pedestal fan has 180-degree and 360-degree oscillation features. It is very efficient in crowded places like marriage halls etc.,Positive,1,train
+test_976,test,Durable and easy to clean. This is very sturdy product.,Positive,1,train
+test_977,test,"At many places, factual things have been twsted or manipulated to grasp eyes and lot of exaggerative narrations just to jsutify the glory associated with his name.",Negative,0,train
+test_978,test,"I personally found the lyrics are just exaggeration. Even while watching the film, I felt like just forwarding those.",Negative,0,train
+test_979,test,The quantity of food served is not always satisfactory to the customer. Also sometimes there are complaints about the deteriorated quality of food served,Negative,0,train
+test_980,test,"This air travel kennel for dogs has a durable, ergonomic comfort-grip handle ventilated sides for comfortable transport.",Positive,1,train
+test_981,test,"the design is so shabby and lousy, it looks like a carton box. Looks matter Crompton.",Negative,0,train
+test_982,test,"The android app makes searching for a book, shows overly frustrating.The app is slow to respond when clicking on the sort option or filter.",Negative,0,val
+test_983,test,"They suffer from stomach problems, losse motions and vomiting",Negative,0,train
+test_984,test,The images are all reversed which may take quite some time to get used to it and the model is very costly.,Negative,0,train
+test_985,test,"This Intex tower speaker has standard, EQ, and DJ modes for audio output. It is like having a stereo and a fully equipped party set.",Positive,1,train
+test_986,test,"SSPC is not resistant to extreme changes in temperature, e.g. freezing and thawing conditions.",Negative,0,test
+test_987,test,I have used this for once and all I can say is that it needs to work on its lasting time. It controls body odour only for a few hours and doesn't last long compared to other deodorants available right now.,Negative,0,train
+test_988,test,"Primarily a wedding venue, this place has an awesome eating arrangement along with the delicious food they serve clubbed with the well-behaved staff members and the manager of the resort. The banquet/dining hall is spacious enough to accommodate all your guests and family members; the wifi is also good and gives decent speed, along with ample parking space available.",Positive,1,train
+test_989,test,"Sometimes a movie just seeps into the deepest part of your soul and quietly removes a piece of your heart, and you don’t realize it until the spell of the cinema is broken and the lights come back on.",Positive,1,val
+test_990,test,Multi coating and efficient for photography in any condition.,Positive,1,train
+test_991,test,There's a wide range of veg and non-veg dishes to choose from along with good table service given the humble and good behaviour of the servers. The food is also affordable,Positive,1,train
+test_992,test,"Profoundly deep, genuinely whimsical, utterly hilarious, highly imaginative and a visual feast.",Positive,1,val
+test_993,test,"It is very inferior in quality: the metal starts rusting in a few days and the chair gets extremely squeaky after a day or two. The product is not at all durable, I am afraid it'll just break within a few months of usage.",Negative,0,train
+test_994,test,Central railway is always running late. do the train EVERRRRRR come on time?!!!!!,Negative,0,test
+test_995,test,Is there a rule that there has to be a love angle to every story. Characters of Samantha and Nithya are just unnecessary.,Negative,0,train
+test_996,test,"Though Zara is known for its quality, most of its products are OVERPRICED and designs are limited.",Negative,0,train
+test_997,test,A wonderful and interesting storybook containing 20 stories with 80 colorful picture pages. My kids liked it very much. I got it for Rs. 175 on Amazon. Wonderful book at decent price.,Positive,1,train
+test_998,test,"True to their brand image, the pencils are smooth and sharp. They're dark yet neat to give you a decent outcome. Perfectly suitable for school kids.",Positive,1,train
+test_999,test,I like the cooconut smell of this roll-on. It is mild yet quite invigorating.,Positive,1,train

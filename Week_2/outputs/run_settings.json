@@ -1,0 +1,37 @@
+{
+  "model": "xlm-roberta-base",
+  "train_languages": [
+    "hi"
+  ],
+  "max_tokens": 128,
+  "c_values_tried": [
+    0.01,
+    0.1,
+    1,
+    10
+  ],
+  "chosen": {
+    "xlm-roberta-base | sentiment": {
+      "C": 0.01,
+      "validation_macro_f1": 0.9249
+    },
+    "xlm-roberta-base | intent": {
+      "C": 0.1,
+      "validation_macro_f1": 0.6866
+    }
+  },
+  "seed": 42,
+  "selection_rule": "C selected by validation macro-F1 using training-language reviews only; test reviews are not used for model selection.",
+  "dataset_file": "week2_dataset.csv",
+  "dataset_rows": 3456,
+  "dataset_sha256": "d919c0208d1b9ad9d22f1401756e1b9985ba8bdd3a1e134a7c373cac04e5c632",
+  "versions": {
+    "python": "3.9.6",
+    "numpy": "2.0.2",
+    "pandas": "2.3.3",
+    "scikit_learn": "1.6.1",
+    "torch": "2.8.0",
+    "transformers": "4.57.6"
+  },
+  "device": "mps"
+}

@@ -1,0 +1,49 @@
+model,task,part,language,subset,n,accuracy,macro_f1,classes_with_examples
+majority-class,sentiment,val,hi,all reviews,173,0.5028901734104047,0.3346153846153846,2
+majority-class,sentiment,val,hi,only reviews not flagged unsure,149,0.4899328859060403,0.32882882882882886,2
+majority-class,sentiment,val,bn,all reviews,173,0.5028901734104047,0.3346153846153846,2
+majority-class,sentiment,val,bn,only reviews not flagged unsure,149,0.4899328859060403,0.32882882882882886,2
+majority-class,sentiment,val,mr,all reviews,173,0.5028901734104047,0.3346153846153846,2
+majority-class,sentiment,val,mr,only reviews not flagged unsure,149,0.4899328859060403,0.32882882882882886,2
+majority-class,sentiment,test,hi,all reviews,173,0.5028901734104047,0.3346153846153846,2
+majority-class,sentiment,test,hi,only reviews not flagged unsure,148,0.46621621621621623,0.31797235023041476,2
+majority-class,sentiment,test,bn,all reviews,173,0.5028901734104047,0.3346153846153846,2
+majority-class,sentiment,test,bn,only reviews not flagged unsure,148,0.46621621621621623,0.31797235023041476,2
+majority-class,sentiment,test,mr,all reviews,173,0.5028901734104047,0.3346153846153846,2
+majority-class,sentiment,test,mr,only reviews not flagged unsure,148,0.46621621621621623,0.31797235023041476,2
+majority-class,intent,val,hi,all reviews,173,0.9075144508670521,0.47575757575757577,2
+majority-class,intent,val,hi,only reviews not flagged unsure,149,0.9664429530201343,0.49146757679180886,2
+majority-class,intent,val,bn,all reviews,173,0.9075144508670521,0.47575757575757577,2
+majority-class,intent,val,bn,only reviews not flagged unsure,149,0.9664429530201343,0.49146757679180886,2
+majority-class,intent,val,mr,all reviews,173,0.9075144508670521,0.47575757575757577,2
+majority-class,intent,val,mr,only reviews not flagged unsure,149,0.9664429530201343,0.49146757679180886,2
+majority-class,intent,test,hi,all reviews,173,0.9248554913294798,0.4804804804804805,2
+majority-class,intent,test,hi,only reviews not flagged unsure,148,0.972972972972973,0.4931506849315068,2
+majority-class,intent,test,bn,all reviews,173,0.9248554913294798,0.4804804804804805,2
+majority-class,intent,test,bn,only reviews not flagged unsure,148,0.972972972972973,0.4931506849315068,2
+majority-class,intent,test,mr,all reviews,173,0.9248554913294798,0.4804804804804805,2
+majority-class,intent,test,mr,only reviews not flagged unsure,148,0.972972972972973,0.4931506849315068,2
+xlm-roberta-base,sentiment,val,hi,all reviews,173,0.9248554913294798,0.9248554913294798,2
+xlm-roberta-base,sentiment,val,hi,only reviews not flagged unsure,149,0.9261744966442953,0.9261212530989407,2
+xlm-roberta-base,sentiment,val,bn,all reviews,173,0.8728323699421965,0.8712797619047619,2
+xlm-roberta-base,sentiment,val,bn,only reviews not flagged unsure,149,0.8791946308724832,0.8785326086956522,2
+xlm-roberta-base,sentiment,val,mr,all reviews,173,0.8901734104046243,0.8900411467567657,2
+xlm-roberta-base,sentiment,val,mr,only reviews not flagged unsure,149,0.8993288590604027,0.8988733541468712,2
+xlm-roberta-base,sentiment,test,hi,all reviews,173,0.9421965317919075,0.9421946003742314,2
+xlm-roberta-base,sentiment,test,hi,only reviews not flagged unsure,148,0.9527027027027027,0.9524399761281733,2
+xlm-roberta-base,sentiment,test,bn,all reviews,173,0.8786127167630058,0.8778125315306226,2
+xlm-roberta-base,sentiment,test,bn,only reviews not flagged unsure,148,0.8716216216216216,0.8716157603981189,2
+xlm-roberta-base,sentiment,test,mr,all reviews,173,0.884393063583815,0.8843892007484631,2
+xlm-roberta-base,sentiment,test,mr,only reviews not flagged unsure,148,0.8851351351351351,0.8848776023793183,2
+xlm-roberta-base,intent,val,hi,all reviews,173,0.9190751445086706,0.6865942028985508,2
+xlm-roberta-base,intent,val,hi,only reviews not flagged unsure,149,0.9798657718120806,0.8281430219146482,2
+xlm-roberta-base,intent,val,bn,all reviews,173,0.815028901734104,0.5988405797101449,2
+xlm-roberta-base,intent,val,bn,only reviews not flagged unsure,149,0.8590604026845637,0.5723657236572366,2
+xlm-roberta-base,intent,val,mr,all reviews,173,0.9075144508670521,0.5311653116531165,2
+xlm-roberta-base,intent,val,mr,only reviews not flagged unsure,149,0.9664429530201343,0.6342660775650466,2
+xlm-roberta-base,intent,test,hi,all reviews,173,0.9248554913294798,0.6972674653385381,2
+xlm-roberta-base,intent,test,hi,only reviews not flagged unsure,148,0.9594594594594594,0.6145833333333333,2
+xlm-roberta-base,intent,test,bn,all reviews,173,0.8034682080924855,0.6269660071029934,2
+xlm-roberta-base,intent,test,bn,only reviews not flagged unsure,148,0.8378378378378378,0.5795454545454546,2
+xlm-roberta-base,intent,test,mr,all reviews,173,0.9132947976878613,0.536027176828178,2
+xlm-roberta-base,intent,test,mr,only reviews not flagged unsure,148,0.9594594594594594,0.4896551724137931,2

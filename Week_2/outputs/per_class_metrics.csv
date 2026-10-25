@@ -1,0 +1,97 @@
+model,task,part,language,subset,class,precision,recall,f1,support,predicted_as_this_class
+majority-class,sentiment,val,hi,all reviews,Negative,0.0,0.0,0.0,86,0
+majority-class,sentiment,val,hi,all reviews,Positive,0.5028901734104047,1.0,0.6692307692307692,87,173
+majority-class,sentiment,val,hi,only reviews not flagged unsure,Negative,0.0,0.0,0.0,76,0
+majority-class,sentiment,val,hi,only reviews not flagged unsure,Positive,0.4899328859060403,1.0,0.6576576576576577,73,149
+majority-class,sentiment,val,bn,all reviews,Negative,0.0,0.0,0.0,86,0
+majority-class,sentiment,val,bn,all reviews,Positive,0.5028901734104047,1.0,0.6692307692307692,87,173
+majority-class,sentiment,val,bn,only reviews not flagged unsure,Negative,0.0,0.0,0.0,76,0
+majority-class,sentiment,val,bn,only reviews not flagged unsure,Positive,0.4899328859060403,1.0,0.6576576576576577,73,149
+majority-class,sentiment,val,mr,all reviews,Negative,0.0,0.0,0.0,86,0
+majority-class,sentiment,val,mr,all reviews,Positive,0.5028901734104047,1.0,0.6692307692307692,87,173
+majority-class,sentiment,val,mr,only reviews not flagged unsure,Negative,0.0,0.0,0.0,76,0
+majority-class,sentiment,val,mr,only reviews not flagged unsure,Positive,0.4899328859060403,1.0,0.6576576576576577,73,149
+majority-class,sentiment,test,hi,all reviews,Negative,0.0,0.0,0.0,86,0
+majority-class,sentiment,test,hi,all reviews,Positive,0.5028901734104047,1.0,0.6692307692307692,87,173
+majority-class,sentiment,test,hi,only reviews not flagged unsure,Negative,0.0,0.0,0.0,79,0
+majority-class,sentiment,test,hi,only reviews not flagged unsure,Positive,0.46621621621621623,1.0,0.6359447004608295,69,148
+majority-class,sentiment,test,bn,all reviews,Negative,0.0,0.0,0.0,86,0
+majority-class,sentiment,test,bn,all reviews,Positive,0.5028901734104047,1.0,0.6692307692307692,87,173
+majority-class,sentiment,test,bn,only reviews not flagged unsure,Negative,0.0,0.0,0.0,79,0
+majority-class,sentiment,test,bn,only reviews not flagged unsure,Positive,0.46621621621621623,1.0,0.6359447004608295,69,148
+majority-class,sentiment,test,mr,all reviews,Negative,0.0,0.0,0.0,86,0
+majority-class,sentiment,test,mr,all reviews,Positive,0.5028901734104047,1.0,0.6692307692307692,87,173
+majority-class,sentiment,test,mr,only reviews not flagged unsure,Negative,0.0,0.0,0.0,79,0
+majority-class,sentiment,test,mr,only reviews not flagged unsure,Positive,0.46621621621621623,1.0,0.6359447004608295,69,148
+majority-class,intent,val,hi,all reviews,Opinion,0.9075144508670521,1.0,0.9515151515151515,157,173
+majority-class,intent,val,hi,all reviews,Factual,0.0,0.0,0.0,16,0
+majority-class,intent,val,hi,only reviews not flagged unsure,Opinion,0.9664429530201343,1.0,0.9829351535836177,144,149
+majority-class,intent,val,hi,only reviews not flagged unsure,Factual,0.0,0.0,0.0,5,0
+majority-class,intent,val,bn,all reviews,Opinion,0.9075144508670521,1.0,0.9515151515151515,157,173
+majority-class,intent,val,bn,all reviews,Factual,0.0,0.0,0.0,16,0
+majority-class,intent,val,bn,only reviews not flagged unsure,Opinion,0.9664429530201343,1.0,0.9829351535836177,144,149
+majority-class,intent,val,bn,only reviews not flagged unsure,Factual,0.0,0.0,0.0,5,0
+majority-class,intent,val,mr,all reviews,Opinion,0.9075144508670521,1.0,0.9515151515151515,157,173
+majority-class,intent,val,mr,all reviews,Factual,0.0,0.0,0.0,16,0
+majority-class,intent,val,mr,only reviews not flagged unsure,Opinion,0.9664429530201343,1.0,0.9829351535836177,144,149
+majority-class,intent,val,mr,only reviews not flagged unsure,Factual,0.0,0.0,0.0,5,0
+majority-class,intent,test,hi,all reviews,Opinion,0.9248554913294798,1.0,0.960960960960961,160,173
+majority-class,intent,test,hi,all reviews,Factual,0.0,0.0,0.0,13,0
+majority-class,intent,test,hi,only reviews not flagged unsure,Opinion,0.972972972972973,1.0,0.9863013698630136,144,148
+majority-class,intent,test,hi,only reviews not flagged unsure,Factual,0.0,0.0,0.0,4,0
+majority-class,intent,test,bn,all reviews,Opinion,0.9248554913294798,1.0,0.960960960960961,160,173
+majority-class,intent,test,bn,all reviews,Factual,0.0,0.0,0.0,13,0
+majority-class,intent,test,bn,only reviews not flagged unsure,Opinion,0.972972972972973,1.0,0.9863013698630136,144,148
+majority-class,intent,test,bn,only reviews not flagged unsure,Factual,0.0,0.0,0.0,4,0
+majority-class,intent,test,mr,all reviews,Opinion,0.9248554913294798,1.0,0.960960960960961,160,173
+majority-class,intent,test,mr,all reviews,Factual,0.0,0.0,0.0,13,0
+majority-class,intent,test,mr,only reviews not flagged unsure,Opinion,0.972972972972973,1.0,0.9863013698630136,144,148
+majority-class,intent,test,mr,only reviews not flagged unsure,Factual,0.0,0.0,0.0,4,0
+xlm-roberta-base,sentiment,val,hi,all reviews,Negative,0.9195402298850575,0.9302325581395349,0.9248554913294798,86,87
+xlm-roberta-base,sentiment,val,hi,all reviews,Positive,0.9302325581395349,0.9195402298850575,0.9248554913294798,87,86
+xlm-roberta-base,sentiment,val,hi,only reviews not flagged unsure,Negative,0.922077922077922,0.9342105263157895,0.9281045751633987,76,77
+xlm-roberta-base,sentiment,val,hi,only reviews not flagged unsure,Positive,0.9305555555555556,0.9178082191780822,0.9241379310344827,73,72
+xlm-roberta-base,sentiment,val,bn,all reviews,Negative,0.9705882352941176,0.7674418604651163,0.8571428571428571,86,68
+xlm-roberta-base,sentiment,val,bn,all reviews,Positive,0.8095238095238095,0.9770114942528736,0.8854166666666666,87,105
+xlm-roberta-base,sentiment,val,bn,only reviews not flagged unsure,Negative,0.967741935483871,0.7894736842105263,0.8695652173913043,76,62
+xlm-roberta-base,sentiment,val,bn,only reviews not flagged unsure,Positive,0.8160919540229885,0.9726027397260274,0.8875,73,87
+xlm-roberta-base,sentiment,val,mr,all reviews,Negative,0.8602150537634409,0.9302325581395349,0.8938547486033519,86,93
+xlm-roberta-base,sentiment,val,mr,all reviews,Positive,0.925,0.8505747126436781,0.8862275449101796,87,80
+xlm-roberta-base,sentiment,val,mr,only reviews not flagged unsure,Negative,0.8674698795180723,0.9473684210526315,0.9056603773584906,76,83
+xlm-roberta-base,sentiment,val,mr,only reviews not flagged unsure,Positive,0.9393939393939394,0.8493150684931506,0.8920863309352518,73,66
+xlm-roberta-base,sentiment,test,hi,all reviews,Negative,0.9418604651162791,0.9418604651162791,0.9418604651162791,86,86
+xlm-roberta-base,sentiment,test,hi,all reviews,Positive,0.9425287356321839,0.9425287356321839,0.9425287356321839,87,87
+xlm-roberta-base,sentiment,test,hi,only reviews not flagged unsure,Negative,0.95,0.9620253164556962,0.9559748427672956,79,80
+xlm-roberta-base,sentiment,test,hi,only reviews not flagged unsure,Positive,0.9558823529411765,0.9420289855072463,0.948905109489051,69,68
+xlm-roberta-base,sentiment,test,bn,all reviews,Negative,0.9452054794520548,0.8023255813953488,0.8679245283018868,86,73
+xlm-roberta-base,sentiment,test,bn,all reviews,Positive,0.83,0.9540229885057471,0.8877005347593583,87,100
+xlm-roberta-base,sentiment,test,bn,only reviews not flagged unsure,Negative,0.9411764705882353,0.810126582278481,0.8707482993197279,79,68
+xlm-roberta-base,sentiment,test,bn,only reviews not flagged unsure,Positive,0.8125,0.9420289855072463,0.87248322147651,69,80
+xlm-roberta-base,sentiment,test,mr,all reviews,Negative,0.8837209302325582,0.8837209302325582,0.8837209302325582,86,86
+xlm-roberta-base,sentiment,test,mr,all reviews,Positive,0.8850574712643678,0.8850574712643678,0.8850574712643678,87,87
+xlm-roberta-base,sentiment,test,mr,only reviews not flagged unsure,Negative,0.9078947368421053,0.8734177215189873,0.8903225806451613,79,76
+xlm-roberta-base,sentiment,test,mr,only reviews not flagged unsure,Positive,0.8611111111111112,0.8985507246376812,0.8794326241134752,69,72
+xlm-roberta-base,intent,val,hi,all reviews,Opinion,0.9333333333333333,0.9808917197452229,0.9565217391304348,157,165
+xlm-roberta-base,intent,val,hi,all reviews,Factual,0.625,0.3125,0.4166666666666667,16,8
+xlm-roberta-base,intent,val,hi,only reviews not flagged unsure,Opinion,0.9862068965517241,0.9930555555555556,0.9896193771626297,144,145
+xlm-roberta-base,intent,val,hi,only reviews not flagged unsure,Factual,0.75,0.6,0.6666666666666666,5,4
+xlm-roberta-base,intent,val,bn,all reviews,Opinion,0.9370629370629371,0.8535031847133758,0.8933333333333333,157,143
+xlm-roberta-base,intent,val,bn,all reviews,Factual,0.23333333333333334,0.4375,0.30434782608695654,16,30
+xlm-roberta-base,intent,val,bn,only reviews not flagged unsure,Opinion,0.984251968503937,0.8680555555555556,0.922509225092251,144,127
+xlm-roberta-base,intent,val,bn,only reviews not flagged unsure,Factual,0.13636363636363635,0.6,0.2222222222222222,5,22
+xlm-roberta-base,intent,val,mr,all reviews,Opinion,0.9122807017543859,0.9936305732484076,0.9512195121951219,157,171
+xlm-roberta-base,intent,val,mr,all reviews,Factual,0.5,0.0625,0.1111111111111111,16,2
+xlm-roberta-base,intent,val,mr,only reviews not flagged unsure,Opinion,0.9727891156462585,0.9930555555555556,0.9828178694158075,144,147
+xlm-roberta-base,intent,val,mr,only reviews not flagged unsure,Factual,0.5,0.2,0.2857142857142857,5,2
+xlm-roberta-base,intent,test,hi,all reviews,Opinion,0.950920245398773,0.96875,0.9597523219814241,160,163
+xlm-roberta-base,intent,test,hi,all reviews,Factual,0.5,0.38461538461538464,0.43478260869565216,13,10
+xlm-roberta-base,intent,test,hi,only reviews not flagged unsure,Opinion,0.9791666666666666,0.9791666666666666,0.9791666666666666,144,144
+xlm-roberta-base,intent,test,hi,only reviews not flagged unsure,Factual,0.25,0.25,0.25,4,4
+xlm-roberta-base,intent,test,bn,all reviews,Opinion,0.9772727272727273,0.80625,0.8835616438356164,160,132
+xlm-roberta-base,intent,test,bn,all reviews,Factual,0.24390243902439024,0.7692307692307693,0.37037037037037035,13,41
+xlm-roberta-base,intent,test,bn,only reviews not flagged unsure,Opinion,1.0,0.8333333333333334,0.9090909090909091,144,120
+xlm-roberta-base,intent,test,bn,only reviews not flagged unsure,Factual,0.14285714285714285,1.0,0.25,4,28
+xlm-roberta-base,intent,test,mr,all reviews,Opinion,0.9289940828402367,0.98125,0.9544072948328267,160,169
+xlm-roberta-base,intent,test,mr,all reviews,Factual,0.25,0.07692307692307693,0.11764705882352941,13,4
+xlm-roberta-base,intent,test,mr,only reviews not flagged unsure,Opinion,0.9726027397260274,0.9861111111111112,0.9793103448275862,144,146
+xlm-roberta-base,intent,test,mr,only reviews not flagged unsure,Factual,0.0,0.0,0.0,4,2
